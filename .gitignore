@@ -1,2 +1,4 @@
 /.well-known
 wp-config.php
+.vscode
+.error_log
