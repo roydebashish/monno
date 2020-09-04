@@ -1,0 +1,16 @@
+/*
+Theme Name: Monno 
+Text Domain: shoroborno
+Version: 1.0
+Requires at least: 4.7
+Requires PHP: 5.2.4
+Description: Monno International School & College
+Author: Augnitive
+Author URI: 
+Theme URI: 
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+*/
+#primary .navbar-nav li.current-menu-item a{
+	color: #07fdfd
+}

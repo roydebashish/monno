@@ -1,0 +1,1339 @@
+[2020-02-22 06:04:59 : INFO] - Re_Smush_It_Task server status: Online 
+[2020-02-22 06:04:59 : INFO] - 
+ 
+[2020-02-22 06:04:59 : INFO] - Header for logs at time:  Sat, 22 Feb 2020 06:04:59 +0000 on http://localhost/monno 
+[2020-02-22 06:04:59 : INFO] - WP: 4.9.13 
+[2020-02-22 06:04:59 : INFO] - PHP: 7.2.24 (apache2handler, Windows NT DESKTOP-SGT6DJK 10.0 build 10240 (Windows 10) AMD64) 
+[2020-02-22 06:04:59 : INFO] - MySQL: 5.5.5 
+[2020-02-22 06:04:59 : INFO] - WPLANG: en_US 
+[2020-02-22 06:04:59 : INFO] - Server: Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.2.24 
+[2020-02-22 06:04:59 : INFO] - Outbound connections: N 
+[2020-02-22 06:04:59 : INFO] - safe_mode: 0 
+[2020-02-22 06:04:59 : INFO] - max_execution_time: 300 
+[2020-02-22 06:04:59 : INFO] - memory_limit: 512M (used: 33.4M | 8M) 
+[2020-02-22 06:04:59 : INFO] - multisite: N 
+[2020-02-22 06:04:59 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2020-02-22 06:05:07 : INFO] - A total of 17 tasks of type smush found and will be processed in this iteration 
+[2020-02-22 06:05:07 : INFO] - Set semaphore last lock (smush) time to 2020-02-22 06:05:07 
+[2020-02-22 06:05:07 : INFO] - Semaphore lock (smush) complete 
+[2020-02-22 06:05:07 : INFO] - Processing task with ID : 1, and type 'smush' 
+[2020-02-22 06:05:07 : INFO] - Re_Smush_It_Task - Attachment ID : 194, Started on : February 22, 2020 06:04:59 
+[2020-02-22 06:05:07 : INFO] - 100 
+[2020-02-22 06:05:10 : INFO] - Backing up the original image - 2020/02/Layer-11-updraft-pre-smush-original.png 
+[2020-02-22 06:05:10 : INFO] - Re_Smush_It_Task - Attachment ID : 194, Started on : February 22, 2020 06:04:59 
+[2020-02-22 06:05:10 : INFO] - 100 
+[2020-02-22 06:05:13 : INFO] - Successfully optimized the image - C:\xampp\htdocs\monno/wp-content/uploads/2020/02/Layer-11.png.The file was compressed from 20.57 KB to 6.59 KB saving 67.93 percent using WP-Optimize 
+[2020-02-22 06:05:13 : INFO] - Completed processing task with ID : 1, and type 'smush' 
+[2020-02-22 06:05:13 : INFO] - Processing task with ID : 2, and type 'smush' 
+[2020-02-22 06:05:13 : INFO] - Re_Smush_It_Task - Attachment ID : 134, Started on : February 22, 2020 06:05:00 
+[2020-02-22 06:05:13 : INFO] - 100 
+[2020-02-22 06:05:19 : INFO] - Backing up the original image - 2020/02/9-updraft-pre-smush-original.jpg 
+[2020-02-22 06:05:19 : INFO] - Re_Smush_It_Task - Attachment ID : 134, Started on : February 22, 2020 06:05:00 
+[2020-02-22 06:05:19 : INFO] - 100 
+[2020-02-22 06:05:21 : INFO] - Re_Smush_It_Task - Attachment ID : 134, Started on : February 22, 2020 06:05:00 
+[2020-02-22 06:05:21 : INFO] - 100 
+[2020-02-22 06:05:23 : INFO] - Re_Smush_It_Task - Attachment ID : 134, Started on : February 22, 2020 06:05:00 
+[2020-02-22 06:05:23 : INFO] - 100 
+[2020-02-22 06:05:27 : INFO] - Re_Smush_It_Task - Attachment ID : 134, Started on : February 22, 2020 06:05:00 
+[2020-02-22 06:05:27 : INFO] - 100 
+[2020-02-22 06:05:30 : INFO] - Successfully optimized the image - C:\xampp\htdocs\monno/wp-content/uploads/2020/02/9.jpg.The file was compressed from 65.53 KB to 61.27 KB saving 6.5 percent using WP-Optimize 
+[2020-02-22 06:05:30 : INFO] - Completed processing task with ID : 2, and type 'smush' 
+[2020-02-22 06:05:30 : INFO] - Set semaphore last lock (smush) time to 2020-02-22 06:05:30 
+[2020-02-22 06:05:30 : INFO] - Processing task with ID : 3, and type 'smush' 
+[2020-02-22 06:05:30 : INFO] - Re_Smush_It_Task - Attachment ID : 132, Started on : February 22, 2020 06:05:00 
+[2020-02-22 06:05:30 : INFO] - 100 
+[2020-02-22 06:05:37 : INFO] - Backing up the original image - 2020/02/7-updraft-pre-smush-original.jpg 
+[2020-02-22 06:05:37 : INFO] - Re_Smush_It_Task - Attachment ID : 132, Started on : February 22, 2020 06:05:00 
+[2020-02-22 06:05:37 : INFO] - 100 
+[2020-02-22 06:05:40 : INFO] - Re_Smush_It_Task - Attachment ID : 132, Started on : February 22, 2020 06:05:00 
+[2020-02-22 06:05:40 : INFO] - 100 
+[2020-02-22 06:05:42 : INFO] - Re_Smush_It_Task - Attachment ID : 132, Started on : February 22, 2020 06:05:00 
+[2020-02-22 06:05:42 : INFO] - 100 
+[2020-02-22 06:05:46 : INFO] - Re_Smush_It_Task - Attachment ID : 132, Started on : February 22, 2020 06:05:00 
+[2020-02-22 06:05:46 : INFO] - 100 
+[2020-02-22 06:05:48 : INFO] - Successfully optimized the image - C:\xampp\htdocs\monno/wp-content/uploads/2020/02/7.jpg.The file was compressed from 69.86 KB to 63.00 KB saving 9.83 percent using WP-Optimize 
+[2020-02-22 06:05:48 : INFO] - Completed processing task with ID : 3, and type 'smush' 
+[2020-02-22 06:05:48 : INFO] - Processing task with ID : 4, and type 'smush' 
+[2020-02-22 06:05:48 : INFO] - Re_Smush_It_Task - Attachment ID : 133, Started on : February 22, 2020 06:05:01 
+[2020-02-22 06:05:48 : INFO] - 100 
+[2020-02-22 06:05:55 : INFO] - Backing up the original image - 2020/02/8-updraft-pre-smush-original.jpg 
+[2020-02-22 06:05:56 : INFO] - Re_Smush_It_Task - Attachment ID : 133, Started on : February 22, 2020 06:05:01 
+[2020-02-22 06:05:56 : INFO] - 100 
+[2020-02-22 06:05:58 : INFO] - Re_Smush_It_Task - Attachment ID : 133, Started on : February 22, 2020 06:05:01 
+[2020-02-22 06:05:58 : INFO] - 100 
+[2020-02-22 06:05:59 : INFO] - 
+ 
+[2020-02-22 06:05:59 : INFO] - Header for logs at time:  Sat, 22 Feb 2020 06:05:59 +0000 on http://localhost/monno 
+[2020-02-22 06:05:59 : INFO] - WP: 4.9.13 
+[2020-02-22 06:05:59 : INFO] - PHP: 7.2.24 (apache2handler, Windows NT DESKTOP-SGT6DJK 10.0 build 10240 (Windows 10) AMD64) 
+[2020-02-22 06:05:59 : INFO] - MySQL: 5.5.5 
+[2020-02-22 06:05:59 : INFO] - WPLANG: en_US 
+[2020-02-22 06:05:59 : INFO] - Server: Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.2.24 
+[2020-02-22 06:05:59 : INFO] - Outbound connections: N 
+[2020-02-22 06:05:59 : INFO] - safe_mode: 0 
+[2020-02-22 06:05:59 : INFO] - max_execution_time: 300 
+[2020-02-22 06:05:59 : INFO] - memory_limit: 512M (used: 33.4M | 6M) 
+[2020-02-22 06:05:59 : INFO] - multisite: N 
+[2020-02-22 06:05:59 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2020-02-22 06:05:59 : INFO] - A total of 14 tasks of type smush found and will be processed in this iteration 
+[2020-02-22 06:05:59 : INFO] - Semaphore lock (smush, monno_options) failed (line 131) 
+[2020-02-22 06:05:59 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2020-02-22 06:06:02 : INFO] - Re_Smush_It_Task - Attachment ID : 133, Started on : February 22, 2020 06:05:01 
+[2020-02-22 06:06:02 : INFO] - 100 
+[2020-02-22 06:06:05 : INFO] - Re_Smush_It_Task - Attachment ID : 133, Started on : February 22, 2020 06:05:01 
+[2020-02-22 06:06:05 : INFO] - 100 
+[2020-02-22 06:06:07 : INFO] - Successfully optimized the image - C:\xampp\htdocs\monno/wp-content/uploads/2020/02/8.jpg.The file was compressed from 71.19 KB to 64.32 KB saving 9.65 percent using WP-Optimize 
+[2020-02-22 06:06:07 : INFO] - Completed processing task with ID : 4, and type 'smush' 
+[2020-02-22 06:06:07 : INFO] - Set semaphore last lock (smush) time to 2020-02-22 06:06:07 
+[2020-02-22 06:06:07 : INFO] - Processing task with ID : 5, and type 'smush' 
+[2020-02-22 06:06:07 : INFO] - Re_Smush_It_Task - Attachment ID : 131, Started on : February 22, 2020 06:05:01 
+[2020-02-22 06:06:07 : INFO] - 100 
+[2020-02-22 06:06:14 : INFO] - Backing up the original image - 2020/02/1-updraft-pre-smush-original.jpg 
+[2020-02-22 06:06:14 : INFO] - Re_Smush_It_Task - Attachment ID : 131, Started on : February 22, 2020 06:05:01 
+[2020-02-22 06:06:14 : INFO] - 100 
+[2020-02-22 06:06:16 : INFO] - Re_Smush_It_Task - Attachment ID : 131, Started on : February 22, 2020 06:05:01 
+[2020-02-22 06:06:16 : INFO] - 100 
+[2020-02-22 06:06:20 : INFO] - Re_Smush_It_Task - Attachment ID : 131, Started on : February 22, 2020 06:05:01 
+[2020-02-22 06:06:20 : INFO] - 100 
+[2020-02-22 06:06:22 : INFO] - Successfully optimized the image - C:\xampp\htdocs\monno/wp-content/uploads/2020/02/1.jpg.The file was compressed from 60.72 KB to 54.62 KB saving 10.05 percent using WP-Optimize 
+[2020-02-22 06:06:22 : INFO] - Completed processing task with ID : 5, and type 'smush' 
+[2020-02-22 06:06:22 : INFO] - Processing task with ID : 6, and type 'smush' 
+[2020-02-22 06:06:22 : INFO] - Re_Smush_It_Task - Attachment ID : 130, Started on : February 22, 2020 06:05:02 
+[2020-02-22 06:06:22 : INFO] - 100 
+[2020-02-22 06:06:59 : INFO] - 
+ 
+[2020-02-22 06:06:59 : INFO] - Header for logs at time:  Sat, 22 Feb 2020 06:06:59 +0000 on http://localhost/monno 
+[2020-02-22 06:06:59 : INFO] - WP: 4.9.13 
+[2020-02-22 06:06:59 : INFO] - PHP: 7.2.24 (apache2handler, Windows NT DESKTOP-SGT6DJK 10.0 build 10240 (Windows 10) AMD64) 
+[2020-02-22 06:06:59 : INFO] - MySQL: 5.5.5 
+[2020-02-22 06:06:59 : INFO] - WPLANG: en_US 
+[2020-02-22 06:06:59 : INFO] - Server: Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.2.24 
+[2020-02-22 06:06:59 : INFO] - Outbound connections: N 
+[2020-02-22 06:06:59 : INFO] - safe_mode: 0 
+[2020-02-22 06:06:59 : INFO] - max_execution_time: 300 
+[2020-02-22 06:06:59 : INFO] - memory_limit: 512M (used: 33.4M | 6M) 
+[2020-02-22 06:06:59 : INFO] - multisite: N 
+[2020-02-22 06:06:59 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2020-02-22 06:06:59 : INFO] - A total of 12 tasks of type smush found and will be processed in this iteration 
+[2020-02-22 06:06:59 : INFO] - Semaphore lock (smush, monno_options) failed (line 131) 
+[2020-02-22 06:06:59 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2020-02-22 06:07:59 : INFO] - 
+ 
+[2020-02-22 06:07:59 : INFO] - Header for logs at time:  Sat, 22 Feb 2020 06:07:59 +0000 on http://localhost/monno 
+[2020-02-22 06:07:59 : INFO] - WP: 4.9.13 
+[2020-02-22 06:07:59 : INFO] - PHP: 7.2.24 (apache2handler, Windows NT DESKTOP-SGT6DJK 10.0 build 10240 (Windows 10) AMD64) 
+[2020-02-22 06:07:59 : INFO] - MySQL: 5.5.5 
+[2020-02-22 06:07:59 : INFO] - WPLANG: en_US 
+[2020-02-22 06:07:59 : INFO] - Server: Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.2.24 
+[2020-02-22 06:07:59 : INFO] - Outbound connections: N 
+[2020-02-22 06:07:59 : INFO] - safe_mode: 0 
+[2020-02-22 06:07:59 : INFO] - max_execution_time: 300 
+[2020-02-22 06:07:59 : INFO] - memory_limit: 512M (used: 33.4M | 6M) 
+[2020-02-22 06:07:59 : INFO] - multisite: N 
+[2020-02-22 06:07:59 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2020-02-22 06:07:59 : INFO] - A total of 12 tasks of type smush found and will be processed in this iteration 
+[2020-02-22 06:08:00 : INFO] - Semaphore (smush, monno_options) was stuck, set lock time to 2020-02-22 06:07:59 
+[2020-02-22 06:08:00 : INFO] - Semaphore (smush, monno_options) reset to 1 
+[2020-02-22 06:08:00 : INFO] - Set semaphore last lock (smush) time to 2020-02-22 06:08:00 
+[2020-02-22 06:08:00 : INFO] - Semaphore lock (smush) complete 
+[2020-02-22 06:08:00 : INFO] - Processing task with ID : 6, and type 'smush' 
+[2020-02-22 06:08:00 : INFO] - Re_Smush_It_Task - Attachment ID : 130, Started on : February 22, 2020 06:05:02 
+[2020-02-22 06:08:00 : INFO] - 100 
+[2020-02-22 06:08:07 : INFO] - Backing up the original image - 2020/02/6-updraft-pre-smush-original.jpg 
+[2020-02-22 06:08:07 : INFO] - Re_Smush_It_Task - Attachment ID : 130, Started on : February 22, 2020 06:05:02 
+[2020-02-22 06:08:07 : INFO] - 100 
+[2020-02-22 06:08:10 : INFO] - Re_Smush_It_Task - Attachment ID : 130, Started on : February 22, 2020 06:05:02 
+[2020-02-22 06:08:10 : INFO] - 100 
+[2020-02-22 06:08:15 : INFO] - Re_Smush_It_Task - Attachment ID : 130, Started on : February 22, 2020 06:05:02 
+[2020-02-22 06:08:15 : INFO] - 100 
+[2020-02-22 06:08:17 : INFO] - Successfully optimized the image - C:\xampp\htdocs\monno/wp-content/uploads/2020/02/6.jpg.The file was compressed from 72.18 KB to 63.28 KB saving 12.32 percent using WP-Optimize 
+[2020-02-22 06:08:17 : INFO] - Completed processing task with ID : 6, and type 'smush' 
+[2020-02-22 06:08:17 : INFO] - Processing task with ID : 7, and type 'smush' 
+[2020-02-22 06:08:17 : INFO] - Re_Smush_It_Task - Attachment ID : 129, Started on : February 22, 2020 06:05:02 
+[2020-02-22 06:08:17 : INFO] - 100 
+[2020-02-22 06:08:25 : INFO] - Backing up the original image - 2020/02/4-updraft-pre-smush-original.jpg 
+[2020-02-22 06:08:25 : INFO] - Re_Smush_It_Task - Attachment ID : 129, Started on : February 22, 2020 06:05:02 
+[2020-02-22 06:08:25 : INFO] - 100 
+[2020-02-22 06:08:28 : INFO] - Re_Smush_It_Task - Attachment ID : 129, Started on : February 22, 2020 06:05:02 
+[2020-02-22 06:08:28 : INFO] - 100 
+[2020-02-22 06:08:31 : INFO] - Re_Smush_It_Task - Attachment ID : 129, Started on : February 22, 2020 06:05:02 
+[2020-02-22 06:08:31 : INFO] - 100 
+[2020-02-22 06:08:33 : INFO] - Successfully optimized the image - C:\xampp\htdocs\monno/wp-content/uploads/2020/02/4.jpg.The file was compressed from 86.23 KB to 70.62 KB saving 18.1 percent using WP-Optimize 
+[2020-02-22 06:08:33 : INFO] - Completed processing task with ID : 7, and type 'smush' 
+[2020-02-22 06:08:33 : INFO] - Set semaphore last lock (smush) time to 2020-02-22 06:08:33 
+[2020-02-22 06:08:33 : INFO] - Processing task with ID : 8, and type 'smush' 
+[2020-02-22 06:08:33 : INFO] - Re_Smush_It_Task - Attachment ID : 93, Started on : February 22, 2020 06:05:02 
+[2020-02-22 06:08:33 : INFO] - 100 
+[2020-02-22 06:08:35 : INFO] - Backing up the original image - 2020/02/placeholder-updraft-pre-smush-original.jpg 
+[2020-02-22 06:08:35 : INFO] - Re_Smush_It_Task - Attachment ID : 93, Started on : February 22, 2020 06:05:02 
+[2020-02-22 06:08:35 : INFO] - 100 
+[2020-02-22 06:08:37 : INFO] - Re_Smush_It_Task - Attachment ID : 93, Started on : February 22, 2020 06:05:02 
+[2020-02-22 06:08:37 : INFO] - 100 
+[2020-02-22 06:08:40 : INFO] - Re_Smush_It_Task - Attachment ID : 93, Started on : February 22, 2020 06:05:02 
+[2020-02-22 06:08:40 : INFO] - 100 
+[2020-02-22 06:08:42 : INFO] - Re_Smush_It_Task - Attachment ID : 93, Started on : February 22, 2020 06:05:02 
+[2020-02-22 06:08:42 : INFO] - 100 
+[2020-02-22 06:08:43 : INFO] - Re_Smush_It_Task - Attachment ID : 93, Started on : February 22, 2020 06:05:02 
+[2020-02-22 06:08:43 : INFO] - 100 
+[2020-02-22 06:08:45 : INFO] - Successfully optimized the image - C:\xampp\htdocs\monno/wp-content/uploads/2020/02/placeholder.jpg.The file was compressed from 5.30 KB to 3.88 KB saving 26.7 percent using WP-Optimize 
+[2020-02-22 06:08:46 : INFO] - Completed processing task with ID : 8, and type 'smush' 
+[2020-02-22 06:08:46 : INFO] - Processing task with ID : 9, and type 'smush' 
+[2020-02-22 06:08:46 : INFO] - Re_Smush_It_Task - Attachment ID : 86, Started on : February 22, 2020 06:05:03 
+[2020-02-22 06:08:46 : INFO] - 100 
+[2020-02-22 06:08:51 : INFO] - Backing up the original image - 2020/02/secondary-high-school-updraft-pre-smush-original.jpg 
+[2020-02-22 06:08:51 : INFO] - Re_Smush_It_Task - Attachment ID : 86, Started on : February 22, 2020 06:05:03 
+[2020-02-22 06:08:51 : INFO] - 100 
+[2020-02-22 06:08:54 : INFO] - Re_Smush_It_Task - Attachment ID : 86, Started on : February 22, 2020 06:05:03 
+[2020-02-22 06:08:54 : INFO] - 100 
+[2020-02-22 06:08:57 : INFO] - Re_Smush_It_Task - Attachment ID : 86, Started on : February 22, 2020 06:05:03 
+[2020-02-22 06:08:57 : INFO] - 100 
+[2020-02-22 06:09:00 : INFO] - 
+ 
+[2020-02-22 06:09:00 : INFO] - Header for logs at time:  Sat, 22 Feb 2020 06:09:00 +0000 on http://localhost/monno 
+[2020-02-22 06:09:00 : INFO] - WP: 4.9.13 
+[2020-02-22 06:09:00 : INFO] - PHP: 7.2.24 (apache2handler, Windows NT DESKTOP-SGT6DJK 10.0 build 10240 (Windows 10) AMD64) 
+[2020-02-22 06:09:00 : INFO] - MySQL: 5.5.5 
+[2020-02-22 06:09:00 : INFO] - WPLANG: en_US 
+[2020-02-22 06:09:00 : INFO] - Server: Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.2.24 
+[2020-02-22 06:09:00 : INFO] - Outbound connections: N 
+[2020-02-22 06:09:00 : INFO] - safe_mode: 0 
+[2020-02-22 06:09:00 : INFO] - max_execution_time: 300 
+[2020-02-22 06:09:00 : INFO] - memory_limit: 512M (used: 33.4M | 6M) 
+[2020-02-22 06:09:00 : INFO] - multisite: N 
+[2020-02-22 06:09:00 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2020-02-22 06:09:00 : INFO] - A total of 9 tasks of type smush found and will be processed in this iteration 
+[2020-02-22 06:09:00 : INFO] - Semaphore lock (smush, monno_options) failed (line 131) 
+[2020-02-22 06:09:00 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2020-02-22 06:09:02 : INFO] - Re_Smush_It_Task - Attachment ID : 86, Started on : February 22, 2020 06:05:03 
+[2020-02-22 06:09:02 : INFO] - 100 
+[2020-02-22 06:09:05 : INFO] - Re_Smush_It_Task - Attachment ID : 86, Started on : February 22, 2020 06:05:03 
+[2020-02-22 06:09:05 : INFO] - 100 
+[2020-02-22 06:09:08 : INFO] - Successfully optimized the image - C:\xampp\htdocs\monno/wp-content/uploads/2020/02/secondary-high-school.jpg.The file was compressed from 45.87 KB to 45.87 KB saving 0 percent using WP-Optimize 
+[2020-02-22 06:09:08 : INFO] - Completed processing task with ID : 9, and type 'smush' 
+[2020-02-22 06:09:08 : INFO] - Set semaphore last lock (smush) time to 2020-02-22 06:09:08 
+[2020-02-22 06:09:08 : INFO] - Processing task with ID : 10, and type 'smush' 
+[2020-02-22 06:09:08 : INFO] - Re_Smush_It_Task - Attachment ID : 85, Started on : February 22, 2020 06:05:03 
+[2020-02-22 06:09:08 : INFO] - 100 
+[2020-02-22 06:09:13 : INFO] - Backing up the original image - 2020/02/primary-school-updraft-pre-smush-original.jpg 
+[2020-02-22 06:09:13 : INFO] - Re_Smush_It_Task - Attachment ID : 85, Started on : February 22, 2020 06:05:03 
+[2020-02-22 06:09:13 : INFO] - 100 
+[2020-02-22 06:09:18 : INFO] - Re_Smush_It_Task - Attachment ID : 85, Started on : February 22, 2020 06:05:03 
+[2020-02-22 06:09:18 : INFO] - 100 
+[2020-02-22 06:09:22 : INFO] - Re_Smush_It_Task - Attachment ID : 85, Started on : February 22, 2020 06:05:03 
+[2020-02-22 06:09:22 : INFO] - 100 
+[2020-02-22 06:09:59 : INFO] - 
+ 
+[2020-02-22 06:09:59 : INFO] - Header for logs at time:  Sat, 22 Feb 2020 06:09:59 +0000 on http://localhost/monno 
+[2020-02-22 06:09:59 : INFO] - WP: 4.9.13 
+[2020-02-22 06:09:59 : INFO] - PHP: 7.2.24 (apache2handler, Windows NT DESKTOP-SGT6DJK 10.0 build 10240 (Windows 10) AMD64) 
+[2020-02-22 06:09:59 : INFO] - MySQL: 5.5.5 
+[2020-02-22 06:09:59 : INFO] - WPLANG: en_US 
+[2020-02-22 06:09:59 : INFO] - Server: Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.2.24 
+[2020-02-22 06:09:59 : INFO] - Outbound connections: N 
+[2020-02-22 06:09:59 : INFO] - safe_mode: 0 
+[2020-02-22 06:09:59 : INFO] - max_execution_time: 300 
+[2020-02-22 06:09:59 : INFO] - memory_limit: 512M (used: 33.4M | 6M) 
+[2020-02-22 06:09:59 : INFO] - multisite: N 
+[2020-02-22 06:09:59 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2020-02-22 06:09:59 : INFO] - A total of 7 tasks of type smush found and will be processed in this iteration 
+[2020-02-22 06:09:59 : INFO] - Semaphore lock (smush, monno_options) failed (line 131) 
+[2020-02-22 06:09:59 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2020-02-22 06:10:59 : INFO] - 
+ 
+[2020-02-22 06:10:59 : INFO] - Header for logs at time:  Sat, 22 Feb 2020 06:10:59 +0000 on http://localhost/monno 
+[2020-02-22 06:10:59 : INFO] - WP: 4.9.13 
+[2020-02-22 06:10:59 : INFO] - PHP: 7.2.24 (apache2handler, Windows NT DESKTOP-SGT6DJK 10.0 build 10240 (Windows 10) AMD64) 
+[2020-02-22 06:10:59 : INFO] - MySQL: 5.5.5 
+[2020-02-22 06:10:59 : INFO] - WPLANG: en_US 
+[2020-02-22 06:10:59 : INFO] - Server: Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.2.24 
+[2020-02-22 06:10:59 : INFO] - Outbound connections: N 
+[2020-02-22 06:10:59 : INFO] - safe_mode: 0 
+[2020-02-22 06:10:59 : INFO] - max_execution_time: 300 
+[2020-02-22 06:10:59 : INFO] - memory_limit: 512M (used: 33.4M | 6M) 
+[2020-02-22 06:10:59 : INFO] - multisite: N 
+[2020-02-22 06:10:59 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2020-02-22 06:10:59 : INFO] - A total of 7 tasks of type smush found and will be processed in this iteration 
+[2020-02-22 06:10:59 : INFO] - Semaphore (smush, monno_options) was stuck, set lock time to 2020-02-22 06:10:59 
+[2020-02-22 06:10:59 : INFO] - Semaphore (smush, monno_options) reset to 1 
+[2020-02-22 06:10:59 : INFO] - Set semaphore last lock (smush) time to 2020-02-22 06:10:59 
+[2020-02-22 06:10:59 : INFO] - Semaphore lock (smush) complete 
+[2020-02-22 06:11:00 : INFO] - Processing task with ID : 11, and type 'smush' 
+[2020-02-22 06:11:00 : INFO] - Re_Smush_It_Task - Attachment ID : 83, Started on : February 22, 2020 06:05:04 
+[2020-02-22 06:11:00 : INFO] - 100 
+[2020-02-22 06:11:06 : INFO] - Backing up the original image - 2020/02/intermidiatE-updraft-pre-smush-original.jpg 
+[2020-02-22 06:11:06 : INFO] - Re_Smush_It_Task - Attachment ID : 83, Started on : February 22, 2020 06:05:04 
+[2020-02-22 06:11:06 : INFO] - 100 
+[2020-02-22 06:11:09 : INFO] - Re_Smush_It_Task - Attachment ID : 83, Started on : February 22, 2020 06:05:04 
+[2020-02-22 06:11:09 : INFO] - 100 
+[2020-02-22 06:11:12 : INFO] - Re_Smush_It_Task - Attachment ID : 83, Started on : February 22, 2020 06:05:04 
+[2020-02-22 06:11:12 : INFO] - 100 
+[2020-02-22 06:11:15 : INFO] - Re_Smush_It_Task - Attachment ID : 83, Started on : February 22, 2020 06:05:04 
+[2020-02-22 06:11:15 : INFO] - 100 
+[2020-02-22 06:11:18 : INFO] - Re_Smush_It_Task - Attachment ID : 83, Started on : February 22, 2020 06:05:04 
+[2020-02-22 06:11:18 : INFO] - 100 
+[2020-02-22 06:11:21 : INFO] - Successfully optimized the image - C:\xampp\htdocs\monno/wp-content/uploads/2020/02/intermidiatE.jpg.The file was compressed from 40.93 KB to 40.93 KB saving 0 percent using WP-Optimize 
+[2020-02-22 06:11:21 : INFO] - Completed processing task with ID : 11, and type 'smush' 
+[2020-02-22 06:11:21 : INFO] - Set semaphore last lock (smush) time to 2020-02-22 06:11:21 
+[2020-02-22 06:11:21 : INFO] - Processing task with ID : 12, and type 'smush' 
+[2020-02-22 06:11:21 : INFO] - Re_Smush_It_Task - Attachment ID : 84, Started on : February 22, 2020 06:05:04 
+[2020-02-22 06:11:21 : INFO] - 100 
+[2020-02-22 06:11:25 : INFO] - Backing up the original image - 2020/02/pre-school-updraft-pre-smush-original.jpg 
+[2020-02-22 06:11:25 : INFO] - Re_Smush_It_Task - Attachment ID : 84, Started on : February 22, 2020 06:05:04 
+[2020-02-22 06:11:25 : INFO] - 100 
+[2020-02-22 06:11:27 : INFO] - Re_Smush_It_Task - Attachment ID : 84, Started on : February 22, 2020 06:05:04 
+[2020-02-22 06:11:27 : INFO] - 100 
+[2020-02-22 06:11:30 : INFO] - Re_Smush_It_Task - Attachment ID : 84, Started on : February 22, 2020 06:05:04 
+[2020-02-22 06:11:30 : INFO] - 100 
+[2020-02-22 06:11:34 : INFO] - Re_Smush_It_Task - Attachment ID : 84, Started on : February 22, 2020 06:05:04 
+[2020-02-22 06:11:34 : INFO] - 100 
+[2020-02-22 06:11:37 : INFO] - Re_Smush_It_Task - Attachment ID : 84, Started on : February 22, 2020 06:05:04 
+[2020-02-22 06:11:37 : INFO] - 100 
+[2020-02-22 06:11:39 : INFO] - Successfully optimized the image - C:\xampp\htdocs\monno/wp-content/uploads/2020/02/pre-school.jpg.The file was compressed from 45.25 KB to 45.25 KB saving 0 percent using WP-Optimize 
+[2020-02-22 06:11:39 : INFO] - Completed processing task with ID : 12, and type 'smush' 
+[2020-02-22 06:11:39 : INFO] - Processing task with ID : 13, and type 'smush' 
+[2020-02-22 06:11:39 : INFO] - Re_Smush_It_Task - Attachment ID : 82, Started on : February 22, 2020 06:05:04 
+[2020-02-22 06:11:39 : INFO] - 100 
+[2020-02-22 06:11:43 : INFO] - Backing up the original image - 2020/02/chairman-updraft-pre-smush-original.jpg 
+[2020-02-22 06:11:43 : INFO] - Re_Smush_It_Task - Attachment ID : 82, Started on : February 22, 2020 06:05:04 
+[2020-02-22 06:11:43 : INFO] - 100 
+[2020-02-22 06:11:45 : INFO] - Re_Smush_It_Task - Attachment ID : 82, Started on : February 22, 2020 06:05:04 
+[2020-02-22 06:11:45 : INFO] - 100 
+[2020-02-22 06:11:48 : INFO] - Re_Smush_It_Task - Attachment ID : 82, Started on : February 22, 2020 06:05:04 
+[2020-02-22 06:11:48 : INFO] - 100 
+[2020-02-22 06:11:52 : INFO] - Re_Smush_It_Task - Attachment ID : 82, Started on : February 22, 2020 06:05:04 
+[2020-02-22 06:11:52 : INFO] - 100 
+[2020-02-22 06:11:55 : INFO] - Re_Smush_It_Task - Attachment ID : 82, Started on : February 22, 2020 06:05:04 
+[2020-02-22 06:11:55 : INFO] - 100 
+[2020-02-22 06:11:57 : INFO] - Successfully optimized the image - C:\xampp\htdocs\monno/wp-content/uploads/2020/02/chairman.jpg.The file was compressed from 33.18 KB to 33.18 KB saving 0 percent using WP-Optimize 
+[2020-02-22 06:11:57 : INFO] - Completed processing task with ID : 13, and type 'smush' 
+[2020-02-22 06:11:57 : INFO] - Set semaphore last lock (smush) time to 2020-02-22 06:11:57 
+[2020-02-22 06:11:57 : INFO] - Processing task with ID : 14, and type 'smush' 
+[2020-02-22 06:11:57 : INFO] - Re_Smush_It_Task - Attachment ID : 81, Started on : February 22, 2020 06:05:05 
+[2020-02-22 06:11:57 : INFO] - 100 
+[2020-02-22 06:12:05 : INFO] - Backing up the original image - 2020/02/founder-chairman-updraft-pre-smush-original.jpg 
+[2020-02-22 06:12:05 : INFO] - Re_Smush_It_Task - Attachment ID : 81, Started on : February 22, 2020 06:05:05 
+[2020-02-22 06:12:05 : INFO] - 100 
+[2020-02-22 06:12:07 : INFO] - Re_Smush_It_Task - Attachment ID : 81, Started on : February 22, 2020 06:05:05 
+[2020-02-22 06:12:07 : INFO] - 100 
+[2020-02-22 06:12:11 : INFO] - Re_Smush_It_Task - Attachment ID : 81, Started on : February 22, 2020 06:05:05 
+[2020-02-22 06:12:11 : INFO] - 100 
+[2020-02-22 06:12:20 : INFO] - Re_Smush_It_Task - Attachment ID : 81, Started on : February 22, 2020 06:05:05 
+[2020-02-22 06:12:20 : INFO] - 100 
+[2020-02-22 06:12:24 : INFO] - Re_Smush_It_Task - Attachment ID : 81, Started on : February 22, 2020 06:05:05 
+[2020-02-22 06:12:24 : INFO] - 100 
+[2020-02-22 06:12:27 : INFO] - Re_Smush_It_Task - Attachment ID : 81, Started on : February 22, 2020 06:05:05 
+[2020-02-22 06:12:27 : INFO] - 100 
+[2020-02-22 06:12:33 : INFO] - 
+ 
+[2020-02-22 06:12:33 : INFO] - Header for logs at time:  Sat, 22 Feb 2020 06:12:33 +0000 on http://localhost/monno 
+[2020-02-22 06:12:33 : INFO] - WP: 4.9.13 
+[2020-02-22 06:12:33 : INFO] - PHP: 7.2.24 (apache2handler, Windows NT DESKTOP-SGT6DJK 10.0 build 10240 (Windows 10) AMD64) 
+[2020-02-22 06:12:33 : INFO] - MySQL: 5.5.5 
+[2020-02-22 06:12:33 : INFO] - WPLANG: en_US 
+[2020-02-22 06:12:33 : INFO] - Server: Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.2.24 
+[2020-02-22 06:12:33 : INFO] - Outbound connections: N 
+[2020-02-22 06:12:33 : INFO] - safe_mode: 0 
+[2020-02-22 06:12:33 : INFO] - max_execution_time: 300 
+[2020-02-22 06:12:33 : INFO] - memory_limit: 512M (used: 33.4M | 6M) 
+[2020-02-22 06:12:33 : INFO] - multisite: N 
+[2020-02-22 06:12:33 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2020-02-22 06:12:33 : INFO] - A total of 4 tasks of type smush found and will be processed in this iteration 
+[2020-02-22 06:12:33 : INFO] - Semaphore lock (smush, monno_options) failed (line 131) 
+[2020-02-22 06:12:33 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2020-02-22 06:14:11 : INFO] - 
+ 
+[2020-02-22 06:14:11 : INFO] - Header for logs at time:  Sat, 22 Feb 2020 06:14:11 +0000 on http://localhost/monno 
+[2020-02-22 06:14:11 : INFO] - WP: 4.9.13 
+[2020-02-22 06:14:11 : INFO] - PHP: 7.2.24 (apache2handler, Windows NT DESKTOP-SGT6DJK 10.0 build 10240 (Windows 10) AMD64) 
+[2020-02-22 06:14:11 : INFO] - MySQL: 5.5.5 
+[2020-02-22 06:14:11 : INFO] - WPLANG: en_US 
+[2020-02-22 06:14:11 : INFO] - Server: Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.2.24 
+[2020-02-22 06:14:11 : INFO] - Outbound connections: N 
+[2020-02-22 06:14:11 : INFO] - safe_mode: 0 
+[2020-02-22 06:14:11 : INFO] - max_execution_time: 300 
+[2020-02-22 06:14:11 : INFO] - memory_limit: 512M (used: 33.4M | 6M) 
+[2020-02-22 06:14:11 : INFO] - multisite: N 
+[2020-02-22 06:14:11 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2020-02-22 06:14:11 : INFO] - A total of 4 tasks of type smush found and will be processed in this iteration 
+[2020-02-22 06:14:11 : INFO] - Semaphore (smush, monno_options) was stuck, set lock time to 2020-02-22 06:14:11 
+[2020-02-22 06:14:11 : INFO] - Semaphore (smush, monno_options) reset to 1 
+[2020-02-22 06:14:11 : INFO] - Set semaphore last lock (smush) time to 2020-02-22 06:14:11 
+[2020-02-22 06:14:11 : INFO] - Semaphore lock (smush) complete 
+[2020-02-22 06:14:11 : INFO] - Processing task with ID : 14, and type 'smush' 
+[2020-02-22 06:14:11 : INFO] - Re_Smush_It_Task - Attachment ID : 81, Started on : February 22, 2020 06:05:05 
+[2020-02-22 06:14:11 : INFO] - 100 
+[2020-02-22 06:14:19 : INFO] - Backing up the original image - 2020/02/founder-chairman-updraft-pre-smush-original.jpg 
+[2020-02-22 06:14:19 : INFO] - Re_Smush_It_Task - Attachment ID : 81, Started on : February 22, 2020 06:05:05 
+[2020-02-22 06:14:19 : INFO] - 100 
+[2020-02-22 06:14:21 : INFO] - Re_Smush_It_Task - Attachment ID : 81, Started on : February 22, 2020 06:05:05 
+[2020-02-22 06:14:21 : INFO] - 100 
+[2020-02-22 06:14:24 : INFO] - Re_Smush_It_Task - Attachment ID : 81, Started on : February 22, 2020 06:05:05 
+[2020-02-22 06:14:24 : INFO] - 100 
+[2020-02-22 06:14:32 : INFO] - Re_Smush_It_Task - Attachment ID : 81, Started on : February 22, 2020 06:05:05 
+[2020-02-22 06:14:32 : INFO] - 100 
+[2020-02-22 06:14:36 : INFO] - Re_Smush_It_Task - Attachment ID : 81, Started on : February 22, 2020 06:05:05 
+[2020-02-22 06:14:36 : INFO] - 100 
+[2020-02-22 06:14:40 : INFO] - Re_Smush_It_Task - Attachment ID : 81, Started on : February 22, 2020 06:05:05 
+[2020-02-22 06:14:40 : INFO] - 100 
+[2020-02-22 06:14:42 : INFO] - Re_Smush_It_Task - Attachment ID : 81, Started on : February 22, 2020 06:05:05 
+[2020-02-22 06:14:42 : INFO] - 100 
+[2020-02-22 06:14:44 : INFO] - Re_Smush_It_Task - Attachment ID : 81, Started on : February 22, 2020 06:05:05 
+[2020-02-22 06:14:44 : INFO] - 100 
+[2020-02-22 06:14:51 : INFO] - Successfully optimized the image - C:\xampp\htdocs\monno/wp-content/uploads/2020/02/founder-chairman.jpg.The file was compressed from 97.65 KB to 97.65 KB saving 0 percent using WP-Optimize 
+[2020-02-22 06:14:51 : INFO] - Completed processing task with ID : 14, and type 'smush' 
+[2020-02-22 06:14:51 : INFO] - Set semaphore last lock (smush) time to 2020-02-22 06:14:51 
+[2020-02-22 06:14:51 : INFO] - Processing task with ID : 15, and type 'smush' 
+[2020-02-22 06:14:51 : INFO] - Re_Smush_It_Task - Attachment ID : 68, Started on : February 22, 2020 06:05:05 
+[2020-02-22 06:14:51 : INFO] - 100 
+[2020-02-22 06:14:53 : INFO] - Backing up the original image - 2020/02/MonnoSchool-logo-updraft-pre-smush-original.png 
+[2020-02-22 06:14:53 : INFO] - Re_Smush_It_Task - Attachment ID : 68, Started on : February 22, 2020 06:05:05 
+[2020-02-22 06:14:53 : INFO] - 100 
+[2020-02-22 06:14:55 : INFO] - Re_Smush_It_Task - Attachment ID : 68, Started on : February 22, 2020 06:05:05 
+[2020-02-22 06:14:55 : INFO] - 100 
+[2020-02-22 06:14:57 : INFO] - Successfully optimized the image - C:\xampp\htdocs\monno/wp-content/uploads/2020/02/MonnoSchool-logo.png.The file was compressed from 5.77 KB to 3.36 KB saving 41.79 percent using WP-Optimize 
+[2020-02-22 06:14:57 : INFO] - Completed processing task with ID : 15, and type 'smush' 
+[2020-02-22 06:14:58 : INFO] - Processing task with ID : 16, and type 'smush' 
+[2020-02-22 06:14:58 : INFO] - Re_Smush_It_Task - Attachment ID : 65, Started on : February 22, 2020 06:05:05 
+[2020-02-22 06:14:58 : INFO] - 100 
+[2020-02-22 06:15:08 : INFO] - Backing up the original image - 2020/02/about-updraft-pre-smush-original.jpg 
+[2020-02-22 06:15:08 : INFO] - Re_Smush_It_Task - Attachment ID : 65, Started on : February 22, 2020 06:05:05 
+[2020-02-22 06:15:08 : INFO] - 100 
+[2020-02-22 06:15:11 : INFO] - Re_Smush_It_Task - Attachment ID : 65, Started on : February 22, 2020 06:05:05 
+[2020-02-22 06:15:11 : INFO] - 100 
+[2020-02-22 06:15:16 : INFO] - Re_Smush_It_Task - Attachment ID : 65, Started on : February 22, 2020 06:05:05 
+[2020-02-22 06:15:16 : INFO] - 100 
+[2020-02-22 06:15:20 : INFO] - Re_Smush_It_Task - Attachment ID : 65, Started on : February 22, 2020 06:05:05 
+[2020-02-22 06:15:20 : INFO] - 100 
+[2020-02-22 06:15:24 : INFO] - Re_Smush_It_Task - Attachment ID : 65, Started on : February 22, 2020 06:05:05 
+[2020-02-22 06:15:24 : INFO] - 100 
+[2020-02-22 06:15:27 : INFO] - Re_Smush_It_Task - Attachment ID : 65, Started on : February 22, 2020 06:05:05 
+[2020-02-22 06:15:27 : INFO] - 100 
+[2020-02-22 06:15:29 : INFO] - Successfully optimized the image - C:\xampp\htdocs\monno/wp-content/uploads/2020/02/about.jpg.The file was compressed from 184.52 KB to 148.33 KB saving 19.61 percent using WP-Optimize 
+[2020-02-22 06:15:29 : INFO] - Completed processing task with ID : 16, and type 'smush' 
+[2020-02-22 06:15:29 : INFO] - Set semaphore last lock (smush) time to 2020-02-22 06:15:29 
+[2020-02-22 06:15:29 : INFO] - Processing task with ID : 17, and type 'smush' 
+[2020-02-22 06:15:29 : INFO] - Re_Smush_It_Task - Attachment ID : 59, Started on : February 22, 2020 06:05:06 
+[2020-02-22 06:15:29 : INFO] - 100 
+[2020-02-22 06:16:02 : INFO] - 
+ 
+[2020-02-22 06:16:02 : INFO] - Header for logs at time:  Sat, 22 Feb 2020 06:16:02 +0000 on http://localhost/monno 
+[2020-02-22 06:16:02 : INFO] - WP: 4.9.13 
+[2020-02-22 06:16:02 : INFO] - PHP: 7.2.24 (apache2handler, Windows NT DESKTOP-SGT6DJK 10.0 build 10240 (Windows 10) AMD64) 
+[2020-02-22 06:16:02 : INFO] - MySQL: 5.5.5 
+[2020-02-22 06:16:02 : INFO] - WPLANG: en_US 
+[2020-02-22 06:16:02 : INFO] - Server: Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.2.24 
+[2020-02-22 06:16:02 : INFO] - Outbound connections: N 
+[2020-02-22 06:16:02 : INFO] - safe_mode: 0 
+[2020-02-22 06:16:02 : INFO] - max_execution_time: 300 
+[2020-02-22 06:16:02 : INFO] - memory_limit: 512M (used: 33.4M | 6M) 
+[2020-02-22 06:16:02 : INFO] - multisite: N 
+[2020-02-22 06:16:02 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2020-02-22 06:16:02 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2020-02-22 06:16:02 : INFO] - Semaphore lock (smush, monno_options) failed (line 131) 
+[2020-02-22 06:16:02 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2020-02-22 06:17:50 : INFO] - 
+ 
+[2020-02-22 06:17:50 : INFO] - Header for logs at time:  Sat, 22 Feb 2020 06:17:50 +0000 on http://localhost/monno 
+[2020-02-22 06:17:50 : INFO] - WP: 4.9.13 
+[2020-02-22 06:17:50 : INFO] - PHP: 7.2.24 (apache2handler, Windows NT DESKTOP-SGT6DJK 10.0 build 10240 (Windows 10) AMD64) 
+[2020-02-22 06:17:50 : INFO] - MySQL: 5.5.5 
+[2020-02-22 06:17:50 : INFO] - WPLANG: en_US 
+[2020-02-22 06:17:50 : INFO] - Server: Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.2.24 
+[2020-02-22 06:17:50 : INFO] - Outbound connections: N 
+[2020-02-22 06:17:50 : INFO] - safe_mode: 0 
+[2020-02-22 06:17:50 : INFO] - max_execution_time: 300 
+[2020-02-22 06:17:50 : INFO] - memory_limit: 512M (used: 33.4M | 6M) 
+[2020-02-22 06:17:50 : INFO] - multisite: N 
+[2020-02-22 06:17:50 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2020-02-22 06:17:50 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2020-02-22 06:17:50 : INFO] - Semaphore (smush, monno_options) was stuck, set lock time to 2020-02-22 06:17:50 
+[2020-02-22 06:17:50 : INFO] - Semaphore (smush, monno_options) reset to 1 
+[2020-02-22 06:17:50 : INFO] - Set semaphore last lock (smush) time to 2020-02-22 06:17:50 
+[2020-02-22 06:17:50 : INFO] - Semaphore lock (smush) complete 
+[2020-02-22 06:17:51 : INFO] - Processing task with ID : 17, and type 'smush' 
+[2020-02-22 06:17:51 : INFO] - Re_Smush_It_Task - Attachment ID : 59, Started on : February 22, 2020 06:05:06 
+[2020-02-22 06:17:51 : INFO] - 100 
+[2020-02-22 06:18:07 : INFO] - Task with ID 17 and type (smush) failed with error code invalid_response - The compression apparently succeeded, but WP-Optimize could not retrieve the compressed image from the remote server. 
+[2020-02-22 06:18:07 : INFO] - data: {"src":"http:\/\/par3.static.resmush.it\/a50d27d1c8fd5783ac1fa859770f464d\/_src_banner.jpg","dest":"http:\/\/par3.static.resmush.it\/a50d27d1c8fd5783ac1fa859770f464d\/banner.jpg","src_size":348350,"dest_size":348350,"percent":0,"output":"json","expires":"Sat, 22 Feb 2020 07:33:01 +0100","generator":"reSmush.it rev.2.0.4.20190519"} 
+[2020-02-22 06:18:07 : INFO] - Re_Smush_It_Task - Attachment ID : 59, Started on : February 22, 2020 06:05:06 
+[2020-02-22 06:18:07 : INFO] - 100 
+[2020-02-22 06:18:12 : INFO] - Re_Smush_It_Task - Attachment ID : 59, Started on : February 22, 2020 06:05:06 
+[2020-02-22 06:18:12 : INFO] - 100 
+[2020-02-22 06:18:20 : INFO] - Re_Smush_It_Task - Attachment ID : 59, Started on : February 22, 2020 06:05:06 
+[2020-02-22 06:18:20 : INFO] - 100 
+[2020-02-22 06:18:26 : INFO] - Re_Smush_It_Task - Attachment ID : 59, Started on : February 22, 2020 06:05:06 
+[2020-02-22 06:18:26 : INFO] - 100 
+[2020-02-22 06:18:35 : INFO] - Re_Smush_It_Task - Attachment ID : 59, Started on : February 22, 2020 06:05:06 
+[2020-02-22 06:18:35 : INFO] - 100 
+[2020-02-22 06:18:53 : INFO] - Task with ID 17 and type (smush) failed with error code invalid_response - The compression apparently succeeded, but WP-Optimize could not retrieve the compressed image from the remote server. 
+[2020-02-22 06:18:53 : INFO] - data: {"src":"http:\/\/par3.static.resmush.it\/92c461b40b6e141797c9f2b6f64848ca\/_src_banner-1920x801.jpg","dest":"http:\/\/par3.static.resmush.it\/92c461b40b6e141797c9f2b6f64848ca\/banner-1920x801.jpg","src_size":325972,"dest_size":313191,"percent":4,"output":"json","expires":"Sat, 22 Feb 2020 07:33:47 +0100","generator":"reSmush.it rev.2.0.4.20190519"} 
+[2020-02-22 06:18:53 : INFO] - Re_Smush_It_Task - Attachment ID : 59, Started on : February 22, 2020 06:05:06 
+[2020-02-22 06:18:53 : INFO] - 100 
+[2020-02-22 06:18:57 : INFO] - Re_Smush_It_Task - Attachment ID : 59, Started on : February 22, 2020 06:05:06 
+[2020-02-22 06:18:57 : INFO] - 100 
+[2020-02-22 06:19:04 : INFO] - Task with ID 17 and type (smush) failed with error code invalid_response - The compression apparently succeeded, but WP-Optimize could not retrieve the compressed image from the remote server. 
+[2020-02-22 06:19:04 : INFO] - data: {"src":"http:\/\/rou1.static.resmush.it\/3ff06588dc393d5cbe330eb8b2435ac0\/_src_banner-637x266.jpg","dest":"http:\/\/rou1.static.resmush.it\/3ff06588dc393d5cbe330eb8b2435ac0\/banner-637x266.jpg","src_size":41774,"dest_size":39648,"percent":5,"output":"json","expires":"Sat, 22 Feb 2020 07:33:59 +0100","generator":"reSmush.it rev.2.0.3.20190108"} 
+[2020-02-22 06:19:04 : INFO] - Re_Smush_It_Task - Attachment ID : 59, Started on : February 22, 2020 06:05:06 
+[2020-02-22 06:19:04 : INFO] - 100 
+[2020-02-22 06:19:10 : INFO] - Re_Smush_It_Task - Attachment ID : 59, Started on : February 22, 2020 06:05:06 
+[2020-02-22 06:19:10 : INFO] - 100 
+[2020-02-22 06:19:13 : INFO] - Re_Smush_It_Task - Attachment ID : 59, Started on : February 22, 2020 06:05:06 
+[2020-02-22 06:19:13 : INFO] - 100 
+[2020-02-22 06:19:16 : INFO] - Re_Smush_It_Task - Attachment ID : 59, Started on : February 22, 2020 06:05:06 
+[2020-02-22 06:19:16 : INFO] - 100 
+[2020-02-22 06:19:36 : INFO] - 
+ 
+[2020-02-22 06:19:36 : INFO] - Header for logs at time:  Sat, 22 Feb 2020 06:19:36 +0000 on http://localhost/monno 
+[2020-02-22 06:19:36 : INFO] - WP: 4.9.13 
+[2020-02-22 06:19:36 : INFO] - PHP: 7.2.24 (apache2handler, Windows NT DESKTOP-SGT6DJK 10.0 build 10240 (Windows 10) AMD64) 
+[2020-02-22 06:19:36 : INFO] - MySQL: 5.5.5 
+[2020-02-22 06:19:36 : INFO] - WPLANG: en_US 
+[2020-02-22 06:19:36 : INFO] - Server: Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.2.24 
+[2020-02-22 06:19:36 : INFO] - Outbound connections: N 
+[2020-02-22 06:19:36 : INFO] - safe_mode: 0 
+[2020-02-22 06:19:36 : INFO] - max_execution_time: 300 
+[2020-02-22 06:19:36 : INFO] - memory_limit: 512M (used: 33.4M | 6M) 
+[2020-02-22 06:19:36 : INFO] - multisite: N 
+[2020-02-22 06:19:36 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2020-02-22 06:19:36 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2020-02-22 06:21:23 : INFO] - 
+ 
+[2020-02-22 06:21:23 : INFO] - Header for logs at time:  Sat, 22 Feb 2020 06:21:23 +0000 on http://localhost/monno 
+[2020-02-22 06:21:23 : INFO] - WP: 4.9.13 
+[2020-02-22 06:21:23 : INFO] - PHP: 7.2.24 (apache2handler, Windows NT DESKTOP-SGT6DJK 10.0 build 10240 (Windows 10) AMD64) 
+[2020-02-22 06:21:23 : INFO] - MySQL: 5.5.5 
+[2020-02-22 06:21:23 : INFO] - WPLANG: en_US 
+[2020-02-22 06:21:23 : INFO] - Server: Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.2.24 
+[2020-02-22 06:21:23 : INFO] - Outbound connections: N 
+[2020-02-22 06:21:23 : INFO] - safe_mode: 0 
+[2020-02-22 06:21:23 : INFO] - max_execution_time: 300 
+[2020-02-22 06:21:23 : INFO] - memory_limit: 512M (used: 33.4M | 6M) 
+[2020-02-22 06:21:23 : INFO] - multisite: N 
+[2020-02-22 06:21:23 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2020-02-22 06:21:23 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2020-02-22 06:23:10 : INFO] - 
+ 
+[2020-02-22 06:23:10 : INFO] - Header for logs at time:  Sat, 22 Feb 2020 06:23:10 +0000 on http://localhost/monno 
+[2020-02-22 06:23:10 : INFO] - WP: 4.9.13 
+[2020-02-22 06:23:10 : INFO] - PHP: 7.2.24 (apache2handler, Windows NT DESKTOP-SGT6DJK 10.0 build 10240 (Windows 10) AMD64) 
+[2020-02-22 06:23:10 : INFO] - MySQL: 5.5.5 
+[2020-02-22 06:23:10 : INFO] - WPLANG: en_US 
+[2020-02-22 06:23:10 : INFO] - Server: Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.2.24 
+[2020-02-22 06:23:10 : INFO] - Outbound connections: N 
+[2020-02-22 06:23:10 : INFO] - safe_mode: 0 
+[2020-02-22 06:23:10 : INFO] - max_execution_time: 300 
+[2020-02-22 06:23:10 : INFO] - memory_limit: 512M (used: 33.4M | 6M) 
+[2020-02-22 06:23:10 : INFO] - multisite: N 
+[2020-02-22 06:23:10 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2020-02-22 06:23:10 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2020-02-22 06:24:49 : INFO] - 
+ 
+[2020-02-22 06:24:49 : INFO] - Header for logs at time:  Sat, 22 Feb 2020 06:24:49 +0000 on http://localhost/monno 
+[2020-02-22 06:24:49 : INFO] - WP: 4.9.13 
+[2020-02-22 06:24:49 : INFO] - PHP: 7.2.24 (apache2handler, Windows NT DESKTOP-SGT6DJK 10.0 build 10240 (Windows 10) AMD64) 
+[2020-02-22 06:24:49 : INFO] - MySQL: 5.5.5 
+[2020-02-22 06:24:49 : INFO] - WPLANG: en_US 
+[2020-02-22 06:24:49 : INFO] - Server: Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.2.24 
+[2020-02-22 06:24:49 : INFO] - Outbound connections: N 
+[2020-02-22 06:24:49 : INFO] - safe_mode: 0 
+[2020-02-22 06:24:49 : INFO] - max_execution_time: 300 
+[2020-02-22 06:24:49 : INFO] - memory_limit: 512M (used: 33.4M | 6M) 
+[2020-02-22 06:24:49 : INFO] - multisite: N 
+[2020-02-22 06:24:49 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2020-02-22 06:24:49 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2020-02-22 06:26:21 : INFO] - 
+ 
+[2020-02-22 06:26:21 : INFO] - Header for logs at time:  Sat, 22 Feb 2020 06:26:21 +0000 on http://localhost/monno 
+[2020-02-22 06:26:21 : INFO] - WP: 4.9.13 
+[2020-02-22 06:26:21 : INFO] - PHP: 7.2.24 (apache2handler, Windows NT DESKTOP-SGT6DJK 10.0 build 10240 (Windows 10) AMD64) 
+[2020-02-22 06:26:21 : INFO] - MySQL: 5.5.5 
+[2020-02-22 06:26:21 : INFO] - WPLANG: en_US 
+[2020-02-22 06:26:21 : INFO] - Server: Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.2.24 
+[2020-02-22 06:26:21 : INFO] - Outbound connections: N 
+[2020-02-22 06:26:21 : INFO] - safe_mode: 0 
+[2020-02-22 06:26:21 : INFO] - max_execution_time: 300 
+[2020-02-22 06:26:21 : INFO] - memory_limit: 512M (used: 33.4M | 6M) 
+[2020-02-22 06:26:21 : INFO] - multisite: N 
+[2020-02-22 06:26:21 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2020-02-22 06:26:21 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2020-02-22 06:28:08 : INFO] - 
+ 
+[2020-02-22 06:28:08 : INFO] - Header for logs at time:  Sat, 22 Feb 2020 06:28:08 +0000 on http://localhost/monno 
+[2020-02-22 06:28:08 : INFO] - WP: 4.9.13 
+[2020-02-22 06:28:08 : INFO] - PHP: 7.2.24 (apache2handler, Windows NT DESKTOP-SGT6DJK 10.0 build 10240 (Windows 10) AMD64) 
+[2020-02-22 06:28:08 : INFO] - MySQL: 5.5.5 
+[2020-02-22 06:28:08 : INFO] - WPLANG: en_US 
+[2020-02-22 06:28:08 : INFO] - Server: Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.2.24 
+[2020-02-22 06:28:08 : INFO] - Outbound connections: N 
+[2020-02-22 06:28:08 : INFO] - safe_mode: 0 
+[2020-02-22 06:28:08 : INFO] - max_execution_time: 300 
+[2020-02-22 06:28:08 : INFO] - memory_limit: 512M (used: 33.4M | 6M) 
+[2020-02-22 06:28:08 : INFO] - multisite: N 
+[2020-02-22 06:28:08 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2020-02-22 06:28:08 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2020-02-22 06:30:09 : INFO] - 
+ 
+[2020-02-22 06:30:09 : INFO] - Header for logs at time:  Sat, 22 Feb 2020 06:30:09 +0000 on http://localhost/monno 
+[2020-02-22 06:30:09 : INFO] - WP: 4.9.13 
+[2020-02-22 06:30:09 : INFO] - PHP: 7.2.24 (apache2handler, Windows NT DESKTOP-SGT6DJK 10.0 build 10240 (Windows 10) AMD64) 
+[2020-02-22 06:30:09 : INFO] - MySQL: 5.5.5 
+[2020-02-22 06:30:09 : INFO] - WPLANG: en_US 
+[2020-02-22 06:30:09 : INFO] - Server: Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.2.24 
+[2020-02-22 06:30:09 : INFO] - Outbound connections: N 
+[2020-02-22 06:30:09 : INFO] - safe_mode: 0 
+[2020-02-22 06:30:09 : INFO] - max_execution_time: 300 
+[2020-02-22 06:30:09 : INFO] - memory_limit: 512M (used: 33.4M | 6M) 
+[2020-02-22 06:30:09 : INFO] - multisite: N 
+[2020-02-22 06:30:09 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2020-02-22 06:30:09 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2020-02-22 06:32:12 : INFO] - 
+ 
+[2020-02-22 06:32:12 : INFO] - Header for logs at time:  Sat, 22 Feb 2020 06:32:12 +0000 on http://localhost/monno 
+[2020-02-22 06:32:12 : INFO] - WP: 4.9.13 
+[2020-02-22 06:32:12 : INFO] - PHP: 7.2.24 (apache2handler, Windows NT DESKTOP-SGT6DJK 10.0 build 10240 (Windows 10) AMD64) 
+[2020-02-22 06:32:12 : INFO] - MySQL: 5.5.5 
+[2020-02-22 06:32:12 : INFO] - WPLANG: en_US 
+[2020-02-22 06:32:12 : INFO] - Server: Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.2.24 
+[2020-02-22 06:32:12 : INFO] - Outbound connections: N 
+[2020-02-22 06:32:12 : INFO] - safe_mode: 0 
+[2020-02-22 06:32:12 : INFO] - max_execution_time: 300 
+[2020-02-22 06:32:12 : INFO] - memory_limit: 512M (used: 33.4M | 6M) 
+[2020-02-22 06:32:12 : INFO] - multisite: N 
+[2020-02-22 06:32:12 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2020-02-22 06:32:12 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2020-02-22 06:34:26 : INFO] - 
+ 
+[2020-02-22 06:34:26 : INFO] - Header for logs at time:  Sat, 22 Feb 2020 06:34:26 +0000 on http://localhost/monno 
+[2020-02-22 06:34:26 : INFO] - WP: 4.9.13 
+[2020-02-22 06:34:26 : INFO] - PHP: 7.2.24 (apache2handler, Windows NT DESKTOP-SGT6DJK 10.0 build 10240 (Windows 10) AMD64) 
+[2020-02-22 06:34:26 : INFO] - MySQL: 5.5.5 
+[2020-02-22 06:34:26 : INFO] - WPLANG: en_US 
+[2020-02-22 06:34:26 : INFO] - Server: Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.2.24 
+[2020-02-22 06:34:26 : INFO] - Outbound connections: N 
+[2020-02-22 06:34:26 : INFO] - safe_mode: 0 
+[2020-02-22 06:34:26 : INFO] - max_execution_time: 300 
+[2020-02-22 06:34:26 : INFO] - memory_limit: 512M (used: 33.4M | 6M) 
+[2020-02-22 06:34:26 : INFO] - multisite: N 
+[2020-02-22 06:34:26 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2020-02-22 06:34:26 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2020-02-22 06:36:39 : INFO] - 
+ 
+[2020-02-22 06:36:39 : INFO] - Header for logs at time:  Sat, 22 Feb 2020 06:36:39 +0000 on http://localhost/monno 
+[2020-02-22 06:36:39 : INFO] - WP: 4.9.13 
+[2020-02-22 06:36:39 : INFO] - PHP: 7.2.24 (apache2handler, Windows NT DESKTOP-SGT6DJK 10.0 build 10240 (Windows 10) AMD64) 
+[2020-02-22 06:36:39 : INFO] - MySQL: 5.5.5 
+[2020-02-22 06:36:39 : INFO] - WPLANG: en_US 
+[2020-02-22 06:36:39 : INFO] - Server: Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.2.24 
+[2020-02-22 06:36:39 : INFO] - Outbound connections: N 
+[2020-02-22 06:36:39 : INFO] - safe_mode: 0 
+[2020-02-22 06:36:39 : INFO] - max_execution_time: 300 
+[2020-02-22 06:36:39 : INFO] - memory_limit: 512M (used: 33.4M | 6M) 
+[2020-02-22 06:36:39 : INFO] - multisite: N 
+[2020-02-22 06:36:39 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2020-02-22 06:36:39 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2020-02-22 06:38:51 : INFO] - 
+ 
+[2020-02-22 06:38:51 : INFO] - Header for logs at time:  Sat, 22 Feb 2020 06:38:51 +0000 on http://localhost/monno 
+[2020-02-22 06:38:51 : INFO] - WP: 4.9.13 
+[2020-02-22 06:38:51 : INFO] - PHP: 7.2.24 (apache2handler, Windows NT DESKTOP-SGT6DJK 10.0 build 10240 (Windows 10) AMD64) 
+[2020-02-22 06:38:51 : INFO] - MySQL: 5.5.5 
+[2020-02-22 06:38:51 : INFO] - WPLANG: en_US 
+[2020-02-22 06:38:51 : INFO] - Server: Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.2.24 
+[2020-02-22 06:38:51 : INFO] - Outbound connections: N 
+[2020-02-22 06:38:51 : INFO] - safe_mode: 0 
+[2020-02-22 06:38:51 : INFO] - max_execution_time: 300 
+[2020-02-22 06:38:51 : INFO] - memory_limit: 512M (used: 33.4M | 6M) 
+[2020-02-22 06:38:51 : INFO] - multisite: N 
+[2020-02-22 06:38:51 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2020-02-22 06:38:51 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2020-02-22 06:41:01 : INFO] - 
+ 
+[2020-02-22 06:41:01 : INFO] - Header for logs at time:  Sat, 22 Feb 2020 06:41:01 +0000 on http://localhost/monno 
+[2020-02-22 06:41:01 : INFO] - WP: 4.9.13 
+[2020-02-22 06:41:01 : INFO] - PHP: 7.2.24 (apache2handler, Windows NT DESKTOP-SGT6DJK 10.0 build 10240 (Windows 10) AMD64) 
+[2020-02-22 06:41:01 : INFO] - MySQL: 5.5.5 
+[2020-02-22 06:41:01 : INFO] - WPLANG: en_US 
+[2020-02-22 06:41:01 : INFO] - Server: Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.2.24 
+[2020-02-22 06:41:01 : INFO] - Outbound connections: N 
+[2020-02-22 06:41:01 : INFO] - safe_mode: 0 
+[2020-02-22 06:41:01 : INFO] - max_execution_time: 300 
+[2020-02-22 06:41:01 : INFO] - memory_limit: 512M (used: 33.4M | 6M) 
+[2020-02-22 06:41:01 : INFO] - multisite: N 
+[2020-02-22 06:41:01 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2020-02-22 06:41:01 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2020-02-22 06:43:14 : INFO] - 
+ 
+[2020-02-22 06:43:14 : INFO] - Header for logs at time:  Sat, 22 Feb 2020 06:43:14 +0000 on http://localhost/monno 
+[2020-02-22 06:43:14 : INFO] - WP: 4.9.13 
+[2020-02-22 06:43:14 : INFO] - PHP: 7.2.24 (apache2handler, Windows NT DESKTOP-SGT6DJK 10.0 build 10240 (Windows 10) AMD64) 
+[2020-02-22 06:43:14 : INFO] - MySQL: 5.5.5 
+[2020-02-22 06:43:14 : INFO] - WPLANG: en_US 
+[2020-02-22 06:43:14 : INFO] - Server: Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.2.24 
+[2020-02-22 06:43:14 : INFO] - Outbound connections: N 
+[2020-02-22 06:43:14 : INFO] - safe_mode: 0 
+[2020-02-22 06:43:14 : INFO] - max_execution_time: 300 
+[2020-02-22 06:43:14 : INFO] - memory_limit: 512M (used: 33.4M | 6M) 
+[2020-02-22 06:43:14 : INFO] - multisite: N 
+[2020-02-22 06:43:14 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2020-02-22 06:43:14 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2020-02-22 06:45:25 : INFO] - 
+ 
+[2020-02-22 06:45:25 : INFO] - Header for logs at time:  Sat, 22 Feb 2020 06:45:25 +0000 on http://localhost/monno 
+[2020-02-22 06:45:25 : INFO] - WP: 4.9.13 
+[2020-02-22 06:45:25 : INFO] - PHP: 7.2.24 (apache2handler, Windows NT DESKTOP-SGT6DJK 10.0 build 10240 (Windows 10) AMD64) 
+[2020-02-22 06:45:25 : INFO] - MySQL: 5.5.5 
+[2020-02-22 06:45:25 : INFO] - WPLANG: en_US 
+[2020-02-22 06:45:25 : INFO] - Server: Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.2.24 
+[2020-02-22 06:45:25 : INFO] - Outbound connections: N 
+[2020-02-22 06:45:25 : INFO] - safe_mode: 0 
+[2020-02-22 06:45:25 : INFO] - max_execution_time: 300 
+[2020-02-22 06:45:25 : INFO] - memory_limit: 512M (used: 33.4M | 6M) 
+[2020-02-22 06:45:25 : INFO] - multisite: N 
+[2020-02-22 06:45:25 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2020-02-22 06:45:25 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2020-02-22 06:47:30 : INFO] - 
+ 
+[2020-02-22 06:47:30 : INFO] - Header for logs at time:  Sat, 22 Feb 2020 06:47:30 +0000 on http://localhost/monno 
+[2020-02-22 06:47:30 : INFO] - WP: 4.9.13 
+[2020-02-22 06:47:30 : INFO] - PHP: 7.2.24 (apache2handler, Windows NT DESKTOP-SGT6DJK 10.0 build 10240 (Windows 10) AMD64) 
+[2020-02-22 06:47:30 : INFO] - MySQL: 5.5.5 
+[2020-02-22 06:47:30 : INFO] - WPLANG: en_US 
+[2020-02-22 06:47:30 : INFO] - Server: Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.2.24 
+[2020-02-22 06:47:30 : INFO] - Outbound connections: N 
+[2020-02-22 06:47:30 : INFO] - safe_mode: 0 
+[2020-02-22 06:47:30 : INFO] - max_execution_time: 300 
+[2020-02-22 06:47:30 : INFO] - memory_limit: 512M (used: 33.4M | 6M) 
+[2020-02-22 06:47:30 : INFO] - multisite: N 
+[2020-02-22 06:47:30 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2020-02-22 06:47:30 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2020-02-22 06:49:48 : INFO] - 
+ 
+[2020-02-22 06:49:48 : INFO] - Header for logs at time:  Sat, 22 Feb 2020 06:49:48 +0000 on http://localhost/monno 
+[2020-02-22 06:49:48 : INFO] - WP: 4.9.13 
+[2020-02-22 06:49:48 : INFO] - PHP: 7.2.24 (apache2handler, Windows NT DESKTOP-SGT6DJK 10.0 build 10240 (Windows 10) AMD64) 
+[2020-02-22 06:49:48 : INFO] - MySQL: 5.5.5 
+[2020-02-22 06:49:48 : INFO] - WPLANG: en_US 
+[2020-02-22 06:49:48 : INFO] - Server: Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.2.24 
+[2020-02-22 06:49:48 : INFO] - Outbound connections: N 
+[2020-02-22 06:49:48 : INFO] - safe_mode: 0 
+[2020-02-22 06:49:48 : INFO] - max_execution_time: 300 
+[2020-02-22 06:49:48 : INFO] - memory_limit: 512M (used: 33.4M | 6M) 
+[2020-02-22 06:49:48 : INFO] - multisite: N 
+[2020-02-22 06:49:48 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2020-02-22 06:49:48 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2020-02-22 06:51:54 : INFO] - 
+ 
+[2020-02-22 06:51:54 : INFO] - Header for logs at time:  Sat, 22 Feb 2020 06:51:54 +0000 on http://localhost/monno 
+[2020-02-22 06:51:54 : INFO] - WP: 4.9.13 
+[2020-02-22 06:51:54 : INFO] - PHP: 7.2.24 (apache2handler, Windows NT DESKTOP-SGT6DJK 10.0 build 10240 (Windows 10) AMD64) 
+[2020-02-22 06:51:54 : INFO] - MySQL: 5.5.5 
+[2020-02-22 06:51:54 : INFO] - WPLANG: en_US 
+[2020-02-22 06:51:54 : INFO] - Server: Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.2.24 
+[2020-02-22 06:51:54 : INFO] - Outbound connections: N 
+[2020-02-22 06:51:54 : INFO] - safe_mode: 0 
+[2020-02-22 06:51:54 : INFO] - max_execution_time: 300 
+[2020-02-22 06:51:54 : INFO] - memory_limit: 512M (used: 33.4M | 6M) 
+[2020-02-22 06:51:54 : INFO] - multisite: N 
+[2020-02-22 06:51:54 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2020-02-22 06:51:54 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2020-02-22 06:54:04 : INFO] - 
+ 
+[2020-02-22 06:54:04 : INFO] - Header for logs at time:  Sat, 22 Feb 2020 06:54:04 +0000 on http://localhost/monno 
+[2020-02-22 06:54:04 : INFO] - WP: 4.9.13 
+[2020-02-22 06:54:04 : INFO] - PHP: 7.2.24 (apache2handler, Windows NT DESKTOP-SGT6DJK 10.0 build 10240 (Windows 10) AMD64) 
+[2020-02-22 06:54:04 : INFO] - MySQL: 5.5.5 
+[2020-02-22 06:54:04 : INFO] - WPLANG: en_US 
+[2020-02-22 06:54:04 : INFO] - Server: Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.2.24 
+[2020-02-22 06:54:04 : INFO] - Outbound connections: N 
+[2020-02-22 06:54:04 : INFO] - safe_mode: 0 
+[2020-02-22 06:54:04 : INFO] - max_execution_time: 300 
+[2020-02-22 06:54:04 : INFO] - memory_limit: 512M (used: 33.4M | 6M) 
+[2020-02-22 06:54:04 : INFO] - multisite: N 
+[2020-02-22 06:54:04 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2020-02-22 06:54:04 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2020-02-22 06:56:11 : INFO] - 
+ 
+[2020-02-22 06:56:11 : INFO] - Header for logs at time:  Sat, 22 Feb 2020 06:56:11 +0000 on http://localhost/monno 
+[2020-02-22 06:56:11 : INFO] - WP: 4.9.13 
+[2020-02-22 06:56:11 : INFO] - PHP: 7.2.24 (apache2handler, Windows NT DESKTOP-SGT6DJK 10.0 build 10240 (Windows 10) AMD64) 
+[2020-02-22 06:56:11 : INFO] - MySQL: 5.5.5 
+[2020-02-22 06:56:11 : INFO] - WPLANG: en_US 
+[2020-02-22 06:56:11 : INFO] - Server: Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.2.24 
+[2020-02-22 06:56:11 : INFO] - Outbound connections: N 
+[2020-02-22 06:56:11 : INFO] - safe_mode: 0 
+[2020-02-22 06:56:11 : INFO] - max_execution_time: 300 
+[2020-02-22 06:56:11 : INFO] - memory_limit: 512M (used: 33.4M | 6M) 
+[2020-02-22 06:56:11 : INFO] - multisite: N 
+[2020-02-22 06:56:11 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2020-02-22 06:56:11 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2020-02-22 06:58:09 : INFO] - 
+ 
+[2020-02-22 06:58:09 : INFO] - Header for logs at time:  Sat, 22 Feb 2020 06:58:09 +0000 on http://localhost/monno 
+[2020-02-22 06:58:09 : INFO] - WP: 4.9.13 
+[2020-02-22 06:58:09 : INFO] - PHP: 7.2.24 (apache2handler, Windows NT DESKTOP-SGT6DJK 10.0 build 10240 (Windows 10) AMD64) 
+[2020-02-22 06:58:09 : INFO] - MySQL: 5.5.5 
+[2020-02-22 06:58:09 : INFO] - WPLANG: en_US 
+[2020-02-22 06:58:09 : INFO] - Server: Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.2.24 
+[2020-02-22 06:58:09 : INFO] - Outbound connections: N 
+[2020-02-22 06:58:09 : INFO] - safe_mode: 0 
+[2020-02-22 06:58:09 : INFO] - max_execution_time: 300 
+[2020-02-22 06:58:09 : INFO] - memory_limit: 512M (used: 33.4M | 6M) 
+[2020-02-22 06:58:09 : INFO] - multisite: N 
+[2020-02-22 06:58:09 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2020-02-22 06:58:09 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2020-02-22 07:00:06 : INFO] - 
+ 
+[2020-02-22 07:00:06 : INFO] - Header for logs at time:  Sat, 22 Feb 2020 07:00:06 +0000 on http://localhost/monno 
+[2020-02-22 07:00:06 : INFO] - WP: 4.9.13 
+[2020-02-22 07:00:06 : INFO] - PHP: 7.2.24 (apache2handler, Windows NT DESKTOP-SGT6DJK 10.0 build 10240 (Windows 10) AMD64) 
+[2020-02-22 07:00:06 : INFO] - MySQL: 5.5.5 
+[2020-02-22 07:00:06 : INFO] - WPLANG: en_US 
+[2020-02-22 07:00:06 : INFO] - Server: Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.2.24 
+[2020-02-22 07:00:06 : INFO] - Outbound connections: N 
+[2020-02-22 07:00:06 : INFO] - safe_mode: 0 
+[2020-02-22 07:00:06 : INFO] - max_execution_time: 300 
+[2020-02-22 07:00:06 : INFO] - memory_limit: 512M (used: 33.4M | 8M) 
+[2020-02-22 07:00:06 : INFO] - multisite: N 
+[2020-02-22 07:00:06 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2020-02-22 07:00:06 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2020-02-22 07:02:02 : INFO] - 
+ 
+[2020-02-22 07:02:02 : INFO] - Header for logs at time:  Sat, 22 Feb 2020 07:02:02 +0000 on http://localhost/monno 
+[2020-02-22 07:02:02 : INFO] - WP: 4.9.13 
+[2020-02-22 07:02:02 : INFO] - PHP: 7.2.24 (apache2handler, Windows NT DESKTOP-SGT6DJK 10.0 build 10240 (Windows 10) AMD64) 
+[2020-02-22 07:02:02 : INFO] - MySQL: 5.5.5 
+[2020-02-22 07:02:02 : INFO] - WPLANG: en_US 
+[2020-02-22 07:02:02 : INFO] - Server: Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.2.24 
+[2020-02-22 07:02:02 : INFO] - Outbound connections: N 
+[2020-02-22 07:02:02 : INFO] - safe_mode: 0 
+[2020-02-22 07:02:02 : INFO] - max_execution_time: 300 
+[2020-02-22 07:02:02 : INFO] - memory_limit: 512M (used: 33.4M | 8M) 
+[2020-02-22 07:02:02 : INFO] - multisite: N 
+[2020-02-22 07:02:02 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2020-02-22 07:02:02 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2020-02-22 07:03:56 : INFO] - 
+ 
+[2020-02-22 07:03:56 : INFO] - Header for logs at time:  Sat, 22 Feb 2020 07:03:56 +0000 on http://localhost/monno 
+[2020-02-22 07:03:56 : INFO] - WP: 4.9.13 
+[2020-02-22 07:03:56 : INFO] - PHP: 7.2.24 (apache2handler, Windows NT DESKTOP-SGT6DJK 10.0 build 10240 (Windows 10) AMD64) 
+[2020-02-22 07:03:56 : INFO] - MySQL: 5.5.5 
+[2020-02-22 07:03:56 : INFO] - WPLANG: en_US 
+[2020-02-22 07:03:56 : INFO] - Server: Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.2.24 
+[2020-02-22 07:03:56 : INFO] - Outbound connections: N 
+[2020-02-22 07:03:56 : INFO] - safe_mode: 0 
+[2020-02-22 07:03:56 : INFO] - max_execution_time: 300 
+[2020-02-22 07:03:56 : INFO] - memory_limit: 512M (used: 33.4M | 8M) 
+[2020-02-22 07:03:56 : INFO] - multisite: N 
+[2020-02-22 07:03:56 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2020-02-22 07:03:56 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2020-02-22 07:05:52 : INFO] - 
+ 
+[2020-02-22 07:05:52 : INFO] - Header for logs at time:  Sat, 22 Feb 2020 07:05:52 +0000 on http://localhost/monno 
+[2020-02-22 07:05:52 : INFO] - WP: 4.9.13 
+[2020-02-22 07:05:52 : INFO] - PHP: 7.2.24 (apache2handler, Windows NT DESKTOP-SGT6DJK 10.0 build 10240 (Windows 10) AMD64) 
+[2020-02-22 07:05:52 : INFO] - MySQL: 5.5.5 
+[2020-02-22 07:05:52 : INFO] - WPLANG: en_US 
+[2020-02-22 07:05:52 : INFO] - Server: Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.2.24 
+[2020-02-22 07:05:52 : INFO] - Outbound connections: N 
+[2020-02-22 07:05:52 : INFO] - safe_mode: 0 
+[2020-02-22 07:05:52 : INFO] - max_execution_time: 300 
+[2020-02-22 07:05:52 : INFO] - memory_limit: 512M (used: 33.4M | 6M) 
+[2020-02-22 07:05:52 : INFO] - multisite: N 
+[2020-02-22 07:05:52 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2020-02-22 07:05:52 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2020-02-22 07:07:51 : INFO] - 
+ 
+[2020-02-22 07:07:51 : INFO] - Header for logs at time:  Sat, 22 Feb 2020 07:07:51 +0000 on http://localhost/monno 
+[2020-02-22 07:07:51 : INFO] - WP: 4.9.13 
+[2020-02-22 07:07:51 : INFO] - PHP: 7.2.24 (apache2handler, Windows NT DESKTOP-SGT6DJK 10.0 build 10240 (Windows 10) AMD64) 
+[2020-02-22 07:07:51 : INFO] - MySQL: 5.5.5 
+[2020-02-22 07:07:51 : INFO] - WPLANG: en_US 
+[2020-02-22 07:07:51 : INFO] - Server: Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.2.24 
+[2020-02-22 07:07:51 : INFO] - Outbound connections: N 
+[2020-02-22 07:07:51 : INFO] - safe_mode: 0 
+[2020-02-22 07:07:51 : INFO] - max_execution_time: 300 
+[2020-02-22 07:07:51 : INFO] - memory_limit: 512M (used: 33.4M | 6M) 
+[2020-02-22 07:07:51 : INFO] - multisite: N 
+[2020-02-22 07:07:51 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2020-02-22 07:07:51 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2020-02-22 07:09:47 : INFO] - 
+ 
+[2020-02-22 07:09:47 : INFO] - Header for logs at time:  Sat, 22 Feb 2020 07:09:47 +0000 on http://localhost/monno 
+[2020-02-22 07:09:47 : INFO] - WP: 4.9.13 
+[2020-02-22 07:09:47 : INFO] - PHP: 7.2.24 (apache2handler, Windows NT DESKTOP-SGT6DJK 10.0 build 10240 (Windows 10) AMD64) 
+[2020-02-22 07:09:47 : INFO] - MySQL: 5.5.5 
+[2020-02-22 07:09:47 : INFO] - WPLANG: en_US 
+[2020-02-22 07:09:47 : INFO] - Server: Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.2.24 
+[2020-02-22 07:09:47 : INFO] - Outbound connections: N 
+[2020-02-22 07:09:47 : INFO] - safe_mode: 0 
+[2020-02-22 07:09:47 : INFO] - max_execution_time: 300 
+[2020-02-22 07:09:47 : INFO] - memory_limit: 512M (used: 33.4M | 6M) 
+[2020-02-22 07:09:47 : INFO] - multisite: N 
+[2020-02-22 07:09:47 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2020-02-22 07:09:47 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2020-02-22 07:11:43 : INFO] - 
+ 
+[2020-02-22 07:11:43 : INFO] - Header for logs at time:  Sat, 22 Feb 2020 07:11:43 +0000 on http://localhost/monno 
+[2020-02-22 07:11:43 : INFO] - WP: 4.9.13 
+[2020-02-22 07:11:43 : INFO] - PHP: 7.2.24 (apache2handler, Windows NT DESKTOP-SGT6DJK 10.0 build 10240 (Windows 10) AMD64) 
+[2020-02-22 07:11:43 : INFO] - MySQL: 5.5.5 
+[2020-02-22 07:11:43 : INFO] - WPLANG: en_US 
+[2020-02-22 07:11:43 : INFO] - Server: Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.2.24 
+[2020-02-22 07:11:43 : INFO] - Outbound connections: N 
+[2020-02-22 07:11:43 : INFO] - safe_mode: 0 
+[2020-02-22 07:11:43 : INFO] - max_execution_time: 300 
+[2020-02-22 07:11:43 : INFO] - memory_limit: 512M (used: 33.4M | 6M) 
+[2020-02-22 07:11:43 : INFO] - multisite: N 
+[2020-02-22 07:11:43 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2020-02-22 07:11:43 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2020-02-22 07:13:37 : INFO] - Re_Smush_It_Task server status: Online 
+[2020-02-22 07:13:37 : INFO] - Re_Smush_It_Task server status: Online 
+[2020-02-22 07:13:38 : INFO] - 
+ 
+[2020-02-22 07:13:38 : INFO] - Header for logs at time:  Sat, 22 Feb 2020 07:13:38 +0000 on http://localhost/monno 
+[2020-02-22 07:13:38 : INFO] - WP: 4.9.13 
+[2020-02-22 07:13:38 : INFO] - PHP: 7.2.24 (apache2handler, Windows NT DESKTOP-SGT6DJK 10.0 build 10240 (Windows 10) AMD64) 
+[2020-02-22 07:13:38 : INFO] - MySQL: 5.5.5 
+[2020-02-22 07:13:38 : INFO] - Header for logs at time:  Sat, 22 Feb 2020 07:13:38 +0000 on http://localhost/monno 
+[2020-02-22 07:13:38 : INFO] - WPLANG: en_US 
+[2020-02-22 07:13:38 : INFO] - WP: 4.9.13 
+[2020-02-22 07:13:38 : INFO] - Server: Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.2.24 
+[2020-02-22 07:13:38 : INFO] - PHP: 7.2.24 (apache2handler, Windows NT DESKTOP-SGT6DJK 10.0 build 10240 (Windows 10) AMD64) 
+[2020-02-22 07:13:38 : INFO] - Outbound connections: N 
+[2020-02-22 07:13:38 : INFO] - MySQL: 5.5.5 
+[2020-02-22 07:13:38 : INFO] - safe_mode: 0 
+[2020-02-22 07:13:38 : INFO] - WPLANG: en_US 
+[2020-02-22 07:13:38 : INFO] - max_execution_time: 300 
+n64) OpenSSL/1.1.1c PHP/7.2.24 
+[2020-02-22 07:13:38 : INFO] - Outbound connections: N 
+[2020-02-22 07:13:38 : INFO] - memory_limit: 512M (used: 33.4M | 6M) 
+[2020-02-22 07:13:38 : INFO] - safe_mode: 0 
+[2020-02-22 07:13:38 : INFO] - multisite: N 
+[2020-02-22 07:13:38 : INFO] - max_execution_time: 300 
+[2020-02-22 07:13:38 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2020-02-22 07:13:38 : INFO] - memory_limit: 512M (used: 33.4M | 6M) 
+[2020-02-22 07:13:38 : INFO] - multisite: N 
+[2020-02-22 07:13:38 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2020-02-22 07:13:57 : INFO] - A total of 4 tasks of type smush found and will be processed in this iteration 
+[2020-02-22 07:13:58 : INFO] - Semaphore (smush, monno_options) was stuck, set lock time to 2020-02-22 07:13:57 
+[2020-02-22 07:13:58 : INFO] - Semaphore (smush, monno_options) reset to 1 
+[2020-02-22 07:13:58 : INFO] - Set semaphore last lock (smush) time to 2020-02-22 07:13:58 
+[2020-02-22 07:13:58 : INFO] - Semaphore lock (smush) complete 
+[2020-02-22 07:13:59 : INFO] - Processing task with ID : 18, and type 'smush' 
+[2020-02-22 07:14:01 : INFO] - Re_Smush_It_Task - Attachment ID : 85, Started on : February 22, 2020 07:13:38 
+[2020-02-22 07:14:01 : INFO] - 100 
+[2020-02-22 07:14:09 : INFO] - 
+ 
+[2020-02-22 07:14:09 : INFO] - Header for logs at time:  Sat, 22 Feb 2020 07:14:09 +0000 on http://localhost/monno 
+[2020-02-22 07:14:09 : INFO] - WP: 4.9.13 
+[2020-02-22 07:14:09 : INFO] - PHP: 7.2.24 (apache2handler, Windows NT DESKTOP-SGT6DJK 10.0 build 10240 (Windows 10) AMD64) 
+[2020-02-22 07:14:09 : INFO] - MySQL: 5.5.5 
+[2020-02-22 07:14:09 : INFO] - WPLANG: en_US 
+[2020-02-22 07:14:09 : INFO] - Server: Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.2.24 
+[2020-02-22 07:14:09 : INFO] - Outbound connections: N 
+[2020-02-22 07:14:09 : INFO] - safe_mode: 0 
+[2020-02-22 07:14:09 : INFO] - max_execution_time: 300 
+[2020-02-22 07:14:09 : INFO] - memory_limit: 512M (used: 33.4M | 22M) 
+[2020-02-22 07:14:09 : INFO] - multisite: N 
+[2020-02-22 07:14:09 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2020-02-22 07:14:09 : INFO] - A total of 6 tasks of type smush found and will be processed in this iteration 
+[2020-02-22 07:14:09 : INFO] - Semaphore lock (smush, monno_options) failed (line 131) 
+[2020-02-22 07:14:09 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2020-02-22 07:14:09 : INFO] - Backing up the original image - 2020/02/primary-school-updraft-pre-smush-original.jpg 
+[2020-02-22 07:14:10 : INFO] - Re_Smush_It_Task - Attachment ID : 85, Started on : February 22, 2020 07:13:38 
+[2020-02-22 07:14:10 : INFO] - 100 
+[2020-02-22 07:14:14 : INFO] - Re_Smush_It_Task - Attachment ID : 85, Started on : February 22, 2020 07:13:38 
+[2020-02-22 07:14:14 : INFO] - 100 
+[2020-02-22 07:14:19 : INFO] - A total of 6 tasks of type smush found and will be processed in this iteration 
+[2020-02-22 07:14:19 : INFO] - Semaphore lock (smush, monno_options) failed (line 131) 
+[2020-02-22 07:14:19 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2020-02-22 07:14:19 : INFO] - Re_Smush_It_Task - Attachment ID : 85, Started on : February 22, 2020 07:13:38 
+[2020-02-22 07:14:19 : INFO] - 100 
+[2020-02-22 07:14:24 : INFO] - Re_Smush_It_Task - Attachment ID : 85, Started on : February 22, 2020 07:13:38 
+[2020-02-22 07:14:24 : INFO] - 100 
+[2020-02-22 07:14:29 : INFO] - Re_Smush_It_Task - Attachment ID : 85, Started on : February 22, 2020 07:13:38 
+[2020-02-22 07:14:29 : INFO] - 100 
+[2020-02-22 07:14:34 : INFO] - Successfully optimized the image - C:\xampp\htdocs\monno/wp-content/uploads/2020/02/primary-school.jpg.The file was compressed from 38.92 KB to 38.92 KB saving 0 percent using WP-Optimize 
+[2020-02-22 07:14:36 : INFO] - Completed processing task with ID : 18, and type 'smush' 
+[2020-02-22 07:14:37 : INFO] - Set semaphore last lock (smush) time to 2020-02-22 07:14:37 
+[2020-02-22 07:14:38 : INFO] - Processing task with ID : 19, and type 'smush' 
+[2020-02-22 07:14:38 : INFO] - Re_Smush_It_Task - Attachment ID : 85, Started on : February 22, 2020 07:13:38 
+[2020-02-22 07:14:38 : INFO] - 100 
+[2020-02-22 07:14:41 : INFO] - 
+ 
+[2020-02-22 07:14:41 : INFO] - Header for logs at time:  Sat, 22 Feb 2020 07:14:41 +0000 on http://localhost/monno 
+[2020-02-22 07:14:41 : INFO] - WP: 4.9.13 
+[2020-02-22 07:14:41 : INFO] - PHP: 7.2.24 (apache2handler, Windows NT DESKTOP-SGT6DJK 10.0 build 10240 (Windows 10) AMD64) 
+[2020-02-22 07:14:41 : INFO] - MySQL: 5.5.5 
+[2020-02-22 07:14:41 : INFO] - WPLANG: en_US 
+[2020-02-22 07:14:41 : INFO] - Server: Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.2.24 
+[2020-02-22 07:14:41 : INFO] - Outbound connections: N 
+[2020-02-22 07:14:41 : INFO] - safe_mode: 0 
+[2020-02-22 07:14:41 : INFO] - max_execution_time: 300 
+[2020-02-22 07:14:41 : INFO] - memory_limit: 512M (used: 33.4M | 6M) 
+[2020-02-22 07:14:41 : INFO] - multisite: N 
+[2020-02-22 07:14:41 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2020-02-22 07:14:41 : INFO] - A total of 5 tasks of type smush found and will be processed in this iteration 
+[2020-02-22 07:14:41 : INFO] - Semaphore lock (smush, monno_options) failed (line 131) 
+[2020-02-22 07:14:41 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2020-02-22 07:14:45 : INFO] - Backing up the original image - 2020/02/primary-school-updraft-pre-smush-original.jpg 
+[2020-02-22 07:14:45 : INFO] - Re_Smush_It_Task - Attachment ID : 85, Started on : February 22, 2020 07:13:38 
+[2020-02-22 07:14:45 : INFO] - 100 
+[2020-02-22 07:14:50 : INFO] - Re_Smush_It_Task - Attachment ID : 85, Started on : February 22, 2020 07:13:38 
+[2020-02-22 07:14:50 : INFO] - 100 
+[2020-02-22 07:14:55 : INFO] - Re_Smush_It_Task - Attachment ID : 85, Started on : February 22, 2020 07:13:38 
+[2020-02-22 07:14:55 : INFO] - 100 
+[2020-02-22 07:15:01 : INFO] - Re_Smush_It_Task - Attachment ID : 85, Started on : February 22, 2020 07:13:38 
+[2020-02-22 07:15:01 : INFO] - 100 
+[2020-02-22 07:15:04 : INFO] - Re_Smush_It_Task - Attachment ID : 85, Started on : February 22, 2020 07:13:38 
+[2020-02-22 07:15:04 : INFO] - 100 
+[2020-02-22 07:15:06 : INFO] - Successfully optimized the image - C:\xampp\htdocs\monno/wp-content/uploads/2020/02/primary-school.jpg.The file was compressed from 38.92 KB to 38.92 KB saving 0 percent using WP-Optimize 
+[2020-02-22 07:15:06 : INFO] - Completed processing task with ID : 19, and type 'smush' 
+[2020-02-22 07:15:06 : INFO] - Set semaphore last lock (smush) time to 2020-02-22 07:15:06 
+[2020-02-22 07:15:06 : INFO] - Processing task with ID : 20, and type 'smush' 
+[2020-02-22 07:15:06 : INFO] - Re_Smush_It_Task - Attachment ID : 59, Started on : February 22, 2020 07:13:48 
+[2020-02-22 07:15:06 : INFO] - 100 
+[2020-02-22 07:15:09 : INFO] - 
+ 
+[2020-02-22 07:15:09 : INFO] - Header for logs at time:  Sat, 22 Feb 2020 07:15:09 +0000 on http://localhost/monno 
+[2020-02-22 07:15:09 : INFO] - WP: 4.9.13 
+[2020-02-22 07:15:09 : INFO] - PHP: 7.2.24 (apache2handler, Windows NT DESKTOP-SGT6DJK 10.0 build 10240 (Windows 10) AMD64) 
+[2020-02-22 07:15:09 : INFO] - MySQL: 5.5.5 
+[2020-02-22 07:15:09 : INFO] - WPLANG: en_US 
+[2020-02-22 07:15:09 : INFO] - Server: Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.2.24 
+[2020-02-22 07:15:09 : INFO] - Outbound connections: N 
+[2020-02-22 07:15:09 : INFO] - safe_mode: 0 
+[2020-02-22 07:15:09 : INFO] - max_execution_time: 300 
+[2020-02-22 07:15:09 : INFO] - memory_limit: 512M (used: 33.4M | 6M) 
+[2020-02-22 07:15:09 : INFO] - multisite: N 
+[2020-02-22 07:15:09 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2020-02-22 07:15:09 : INFO] - A total of 4 tasks of type smush found and will be processed in this iteration 
+[2020-02-22 07:15:09 : INFO] - Semaphore lock (smush, monno_options) failed (line 131) 
+[2020-02-22 07:15:09 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2020-02-22 07:15:39 : INFO] - 
+ 
+[2020-02-22 07:15:39 : INFO] - Header for logs at time:  Sat, 22 Feb 2020 07:15:39 +0000 on http://localhost/monno 
+[2020-02-22 07:15:39 : INFO] - WP: 4.9.13 
+[2020-02-22 07:15:39 : INFO] - PHP: 7.2.24 (apache2handler, Windows NT DESKTOP-SGT6DJK 10.0 build 10240 (Windows 10) AMD64) 
+[2020-02-22 07:15:39 : INFO] - MySQL: 5.5.5 
+[2020-02-22 07:15:39 : INFO] - WPLANG: en_US 
+[2020-02-22 07:15:39 : INFO] - Server: Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.2.24 
+[2020-02-22 07:15:39 : INFO] - Outbound connections: N 
+[2020-02-22 07:15:39 : INFO] - safe_mode: 0 
+[2020-02-22 07:15:39 : INFO] - max_execution_time: 300 
+[2020-02-22 07:15:39 : INFO] - memory_limit: 512M (used: 33.4M | 6M) 
+[2020-02-22 07:15:39 : INFO] - multisite: N 
+[2020-02-22 07:15:39 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2020-02-22 07:15:39 : INFO] - A total of 4 tasks of type smush found and will be processed in this iteration 
+[2020-02-22 07:15:39 : INFO] - Semaphore lock (smush, monno_options) failed (line 131) 
+[2020-02-22 07:15:39 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2020-02-22 07:16:09 : INFO] - 
+ 
+[2020-02-22 07:16:09 : INFO] - Header for logs at time:  Sat, 22 Feb 2020 07:16:09 +0000 on http://localhost/monno 
+[2020-02-22 07:16:09 : INFO] - WP: 4.9.13 
+[2020-02-22 07:16:09 : INFO] - PHP: 7.2.24 (apache2handler, Windows NT DESKTOP-SGT6DJK 10.0 build 10240 (Windows 10) AMD64) 
+[2020-02-22 07:16:09 : INFO] - MySQL: 5.5.5 
+[2020-02-22 07:16:09 : INFO] - WPLANG: en_US 
+[2020-02-22 07:16:09 : INFO] - Server: Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.2.24 
+[2020-02-22 07:16:09 : INFO] - Outbound connections: N 
+[2020-02-22 07:16:09 : INFO] - safe_mode: 0 
+[2020-02-22 07:16:09 : INFO] - max_execution_time: 300 
+[2020-02-22 07:16:09 : INFO] - memory_limit: 512M (used: 33.4M | 6M) 
+[2020-02-22 07:16:09 : INFO] - multisite: N 
+[2020-02-22 07:16:09 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2020-02-22 07:16:09 : INFO] - A total of 4 tasks of type smush found and will be processed in this iteration 
+[2020-02-22 07:16:09 : INFO] - Semaphore (smush, monno_options) was stuck, set lock time to 2020-02-22 07:16:09 
+[2020-02-22 07:16:09 : INFO] - Semaphore (smush, monno_options) reset to 1 
+[2020-02-22 07:16:09 : INFO] - Set semaphore last lock (smush) time to 2020-02-22 07:16:09 
+[2020-02-22 07:16:09 : INFO] - Semaphore lock (smush) complete 
+[2020-02-22 07:16:09 : INFO] - Processing task with ID : 20, and type 'smush' 
+[2020-02-22 07:16:09 : INFO] - Re_Smush_It_Task - Attachment ID : 59, Started on : February 22, 2020 07:13:48 
+[2020-02-22 07:16:09 : INFO] - 100 
+[2020-02-22 07:16:24 : INFO] - Task with ID 20 and type (smush) failed with error code invalid_response - The compression apparently succeeded, but WP-Optimize could not retrieve the compressed image from the remote server. 
+[2020-02-22 07:16:24 : INFO] - data: {"src":"http:\/\/par3.static.resmush.it\/712ca783f3caa5bff60a3e0c19e644c0\/_src_banner.jpg","dest":"http:\/\/par3.static.resmush.it\/712ca783f3caa5bff60a3e0c19e644c0\/banner.jpg","src_size":348350,"dest_size":348350,"percent":0,"output":"json","expires":"Sat, 22 Feb 2020 08:31:18 +0100","generator":"reSmush.it rev.2.0.4.20190519"} 
+[2020-02-22 07:16:24 : INFO] - Re_Smush_It_Task - Attachment ID : 59, Started on : February 22, 2020 07:13:48 
+[2020-02-22 07:16:24 : INFO] - 100 
+[2020-02-22 07:16:26 : INFO] - Re_Smush_It_Task - Attachment ID : 59, Started on : February 22, 2020 07:13:48 
+[2020-02-22 07:16:26 : INFO] - 100 
+[2020-02-22 07:16:29 : INFO] - Re_Smush_It_Task - Attachment ID : 59, Started on : February 22, 2020 07:13:48 
+[2020-02-22 07:16:29 : INFO] - 100 
+[2020-02-22 07:16:33 : INFO] - Re_Smush_It_Task - Attachment ID : 59, Started on : February 22, 2020 07:13:48 
+[2020-02-22 07:16:33 : INFO] - 100 
+[2020-02-22 07:16:39 : INFO] - Re_Smush_It_Task - Attachment ID : 59, Started on : February 22, 2020 07:13:48 
+[2020-02-22 07:16:39 : INFO] - 100 
+[2020-02-22 07:16:39 : INFO] - 
+ 
+[2020-02-22 07:16:39 : INFO] - Header for logs at time:  Sat, 22 Feb 2020 07:16:39 +0000 on http://localhost/monno 
+[2020-02-22 07:16:39 : INFO] - WP: 4.9.13 
+[2020-02-22 07:16:39 : INFO] - PHP: 7.2.24 (apache2handler, Windows NT DESKTOP-SGT6DJK 10.0 build 10240 (Windows 10) AMD64) 
+[2020-02-22 07:16:39 : INFO] - MySQL: 5.5.5 
+[2020-02-22 07:16:39 : INFO] - WPLANG: en_US 
+[2020-02-22 07:16:39 : INFO] - Server: Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.2.24 
+[2020-02-22 07:16:39 : INFO] - Outbound connections: N 
+[2020-02-22 07:16:39 : INFO] - safe_mode: 0 
+[2020-02-22 07:16:39 : INFO] - max_execution_time: 300 
+[2020-02-22 07:16:39 : INFO] - memory_limit: 512M (used: 33.4M | 6M) 
+[2020-02-22 07:16:39 : INFO] - multisite: N 
+[2020-02-22 07:16:39 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2020-02-22 07:16:39 : INFO] - A total of 3 tasks of type smush found and will be processed in this iteration 
+[2020-02-22 07:16:39 : INFO] - Semaphore lock (smush, monno_options) failed (line 131) 
+[2020-02-22 07:16:39 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2020-02-22 07:16:54 : INFO] - Re_Smush_It_Task - Attachment ID : 59, Started on : February 22, 2020 07:13:48 
+[2020-02-22 07:16:54 : INFO] - 100 
+[2020-02-22 07:16:57 : INFO] - Re_Smush_It_Task - Attachment ID : 59, Started on : February 22, 2020 07:13:48 
+[2020-02-22 07:16:57 : INFO] - 100 
+[2020-02-22 07:17:00 : INFO] - Re_Smush_It_Task - Attachment ID : 59, Started on : February 22, 2020 07:13:48 
+[2020-02-22 07:17:00 : INFO] - 100 
+[2020-02-22 07:17:03 : INFO] - Re_Smush_It_Task - Attachment ID : 59, Started on : February 22, 2020 07:13:48 
+[2020-02-22 07:17:03 : INFO] - 100 
+[2020-02-22 07:17:05 : INFO] - Re_Smush_It_Task - Attachment ID : 59, Started on : February 22, 2020 07:13:48 
+[2020-02-22 07:17:05 : INFO] - 100 
+[2020-02-22 07:17:07 : INFO] - Re_Smush_It_Task - Attachment ID : 59, Started on : February 22, 2020 07:13:48 
+[2020-02-22 07:17:07 : INFO] - 100 
+[2020-02-22 07:17:09 : INFO] - 
+ 
+[2020-02-22 07:17:09 : INFO] - Header for logs at time:  Sat, 22 Feb 2020 07:17:09 +0000 on http://localhost/monno 
+[2020-02-22 07:17:09 : INFO] - WP: 4.9.13 
+[2020-02-22 07:17:09 : INFO] - PHP: 7.2.24 (apache2handler, Windows NT DESKTOP-SGT6DJK 10.0 build 10240 (Windows 10) AMD64) 
+[2020-02-22 07:17:09 : INFO] - MySQL: 5.5.5 
+[2020-02-22 07:17:09 : INFO] - WPLANG: en_US 
+[2020-02-22 07:17:09 : INFO] - Server: Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.2.24 
+[2020-02-22 07:17:09 : INFO] - Outbound connections: N 
+[2020-02-22 07:17:09 : INFO] - safe_mode: 0 
+[2020-02-22 07:17:09 : INFO] - max_execution_time: 300 
+[2020-02-22 07:17:09 : INFO] - memory_limit: 512M (used: 33.4M | 6M) 
+[2020-02-22 07:17:09 : INFO] - multisite: N 
+[2020-02-22 07:17:09 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2020-02-22 07:17:09 : INFO] - A total of 3 tasks of type smush found and will be processed in this iteration 
+[2020-02-22 07:17:09 : INFO] - Semaphore (smush, monno_options) was stuck, set lock time to 2020-02-22 07:17:09 
+[2020-02-22 07:17:09 : INFO] - Semaphore (smush, monno_options) reset to 1 
+[2020-02-22 07:17:09 : INFO] - Set semaphore last lock (smush) time to 2020-02-22 07:17:09 
+[2020-02-22 07:17:09 : INFO] - Semaphore lock (smush) complete 
+[2020-02-22 07:17:09 : INFO] - Processing task with ID : 21, and type 'smush' 
+[2020-02-22 07:17:10 : INFO] - Re_Smush_It_Task - Attachment ID : 59, Started on : February 22, 2020 07:13:49 
+[2020-02-22 07:17:10 : INFO] - 100 
+[2020-02-22 07:17:12 : INFO] - Successfully optimized the image - C:\xampp\htdocs\monno/wp-content/uploads/2020/02/banner.jpg.The file was compressed from 340.19 KB to 340.19 KB saving 0 percent using WP-Optimize 
+[2020-02-22 07:17:12 : INFO] - Completed processing task with ID : 20, and type 'smush' 
+[2020-02-22 07:17:12 : INFO] - Set semaphore last lock (smush) time to 2020-02-22 07:17:12 
+[2020-02-22 07:17:15 : INFO] - Task with ID 21 and type (smush) failed with error code could_not_lock - The task could not be locked 
+[2020-02-22 07:17:15 : INFO] - Processing task with ID : 22, and type 'smush' 
+[2020-02-22 07:17:15 : INFO] - Re_Smush_It_Task - Attachment ID : 85, Started on : February 22, 2020 07:13:57 
+[2020-02-22 07:17:15 : INFO] - 100 
+[2020-02-22 07:17:21 : INFO] - Backing up the original image - 2020/02/primary-school-updraft-pre-smush-original.jpg 
+[2020-02-22 07:17:21 : INFO] - Re_Smush_It_Task - Attachment ID : 85, Started on : February 22, 2020 07:13:57 
+[2020-02-22 07:17:21 : INFO] - 100 
+[2020-02-22 07:17:23 : INFO] - Re_Smush_It_Task - Attachment ID : 85, Started on : February 22, 2020 07:13:57 
+[2020-02-22 07:17:23 : INFO] - 100 
+[2020-02-22 07:17:26 : INFO] - Task with ID 21 and type (smush) failed with error code invalid_response - The compression apparently succeeded, but WP-Optimize could not retrieve the compressed image from the remote server. 
+[2020-02-22 07:17:26 : INFO] - data: {"src":"http:\/\/par2.static.resmush.it\/175971bc84973753dccee5b150d4e2a1\/_src_banner.jpg","dest":"http:\/\/par2.static.resmush.it\/175971bc84973753dccee5b150d4e2a1\/banner.jpg","src_size":348350,"dest_size":348350,"percent":0,"output":"json","expires":"Sat, 22 Feb 2020 08:22:20 +0100","generator":"reSmush.it rev.2.0.4.20190519"} 
+[2020-02-22 07:17:26 : INFO] - Re_Smush_It_Task - Attachment ID : 59, Started on : February 22, 2020 07:13:49 
+[2020-02-22 07:17:26 : INFO] - 100 
+[2020-02-22 07:17:26 : INFO] - Re_Smush_It_Task - Attachment ID : 85, Started on : February 22, 2020 07:13:57 
+[2020-02-22 07:17:26 : INFO] - 100 
+[2020-02-22 07:17:28 : INFO] - Re_Smush_It_Task - Attachment ID : 59, Started on : February 22, 2020 07:13:49 
+[2020-02-22 07:17:28 : INFO] - 100 
+[2020-02-22 07:17:29 : INFO] - Re_Smush_It_Task - Attachment ID : 85, Started on : February 22, 2020 07:13:57 
+[2020-02-22 07:17:29 : INFO] - 100 
+[2020-02-22 07:17:32 : INFO] - Re_Smush_It_Task - Attachment ID : 85, Started on : February 22, 2020 07:13:57 
+[2020-02-22 07:17:32 : INFO] - 100 
+[2020-02-22 07:17:32 : INFO] - Re_Smush_It_Task - Attachment ID : 59, Started on : February 22, 2020 07:13:49 
+[2020-02-22 07:17:32 : INFO] - 100 
+[2020-02-22 07:17:37 : INFO] - Re_Smush_It_Task - Attachment ID : 59, Started on : February 22, 2020 07:13:49 
+[2020-02-22 07:17:37 : INFO] - 100 
+[2020-02-22 07:17:38 : INFO] - Task with ID 22 and type (smush) failed with error code invalid_response - The compression apparently succeeded, but WP-Optimize could not retrieve the compressed image from the remote server. 
+[2020-02-22 07:17:38 : INFO] - data: {"src":"http:\/\/par2.static.resmush.it\/c4fe90a2bfc80bb3304f4128486fc1f4\/_src_primary-school-138x110.jpg","dest":"http:\/\/par2.static.resmush.it\/c4fe90a2bfc80bb3304f4128486fc1f4\/primary-school-138x110.jpg","src_size":5386,"dest_size":5386,"percent":0,"output":"json","expires":"Sat, 22 Feb 2020 08:22:32 +0100","generator":"reSmush.it rev.2.0.4.20190519"} 
+[2020-02-22 07:17:38 : INFO] - Successfully optimized the image - C:\xampp\htdocs\monno/wp-content/uploads/2020/02/primary-school.jpg.The file was compressed from 38.92 KB to 38.92 KB saving 0 percent using WP-Optimize 
+[2020-02-22 07:17:38 : INFO] - Completed processing task with ID : 22, and type 'smush' 
+[2020-02-22 07:17:38 : INFO] - Set semaphore last lock (smush) time to 2020-02-22 07:17:38 
+[2020-02-22 07:17:38 : INFO] - Processing task with ID : 23, and type 'smush' 
+[2020-02-22 07:17:39 : INFO] - Re_Smush_It_Task - Attachment ID : 59, Started on : February 22, 2020 07:14:09 
+[2020-02-22 07:17:39 : INFO] - 100 
+[2020-02-22 07:17:39 : INFO] - 
+ 
+[2020-02-22 07:17:39 : INFO] - Header for logs at time:  Sat, 22 Feb 2020 07:17:39 +0000 on http://localhost/monno 
+[2020-02-22 07:17:39 : INFO] - WP: 4.9.13 
+[2020-02-22 07:17:39 : INFO] - PHP: 7.2.24 (apache2handler, Windows NT DESKTOP-SGT6DJK 10.0 build 10240 (Windows 10) AMD64) 
+[2020-02-22 07:17:39 : INFO] - MySQL: 5.5.5 
+[2020-02-22 07:17:39 : INFO] - WPLANG: en_US 
+[2020-02-22 07:17:39 : INFO] - Server: Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.2.24 
+[2020-02-22 07:17:39 : INFO] - Outbound connections: N 
+[2020-02-22 07:17:39 : INFO] - safe_mode: 0 
+[2020-02-22 07:17:39 : INFO] - max_execution_time: 300 
+[2020-02-22 07:17:39 : INFO] - memory_limit: 512M (used: 33.4M | 6M) 
+[2020-02-22 07:17:39 : INFO] - multisite: N 
+[2020-02-22 07:17:39 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2020-02-22 07:17:39 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2020-02-22 07:17:39 : INFO] - Semaphore lock (smush, monno_options) failed (line 131) 
+[2020-02-22 07:17:39 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2020-02-22 07:17:48 : INFO] - Re_Smush_It_Task - Attachment ID : 59, Started on : February 22, 2020 07:13:49 
+[2020-02-22 07:17:48 : INFO] - 100 
+[2020-02-22 07:18:07 : INFO] - Task with ID 21 and type (smush) failed with error code invalid_response - The compression apparently succeeded, but WP-Optimize could not retrieve the compressed image from the remote server. 
+[2020-02-22 07:18:07 : INFO] - data: {"src":"http:\/\/par2.static.resmush.it\/0d59fe62d0a0f86a83c311fabd6e09dc\/_src_banner-1920x801.jpg","dest":"http:\/\/par2.static.resmush.it\/0d59fe62d0a0f86a83c311fabd6e09dc\/banner-1920x801.jpg","src_size":313191,"dest_size":313191,"percent":0,"output":"json","expires":"Sat, 22 Feb 2020 08:23:01 +0100","generator":"reSmush.it rev.2.0.4.20190519"} 
+[2020-02-22 07:18:07 : INFO] - Re_Smush_It_Task - Attachment ID : 59, Started on : February 22, 2020 07:13:49 
+[2020-02-22 07:18:07 : INFO] - 100 
+[2020-02-22 07:18:09 : INFO] - 
+ 
+[2020-02-22 07:18:09 : INFO] - Header for logs at time:  Sat, 22 Feb 2020 07:18:09 +0000 on http://localhost/monno 
+[2020-02-22 07:18:09 : INFO] - WP: 4.9.13 
+[2020-02-22 07:18:09 : INFO] - PHP: 7.2.24 (apache2handler, Windows NT DESKTOP-SGT6DJK 10.0 build 10240 (Windows 10) AMD64) 
+[2020-02-22 07:18:09 : INFO] - MySQL: 5.5.5 
+[2020-02-22 07:18:09 : INFO] - WPLANG: en_US 
+[2020-02-22 07:18:09 : INFO] - Server: Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.2.24 
+[2020-02-22 07:18:09 : INFO] - Outbound connections: N 
+[2020-02-22 07:18:09 : INFO] - safe_mode: 0 
+[2020-02-22 07:18:09 : INFO] - max_execution_time: 300 
+[2020-02-22 07:18:09 : INFO] - memory_limit: 512M (used: 33.4M | 6M) 
+[2020-02-22 07:18:09 : INFO] - multisite: N 
+[2020-02-22 07:18:09 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2020-02-22 07:18:09 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2020-02-22 07:18:09 : INFO] - Semaphore lock (smush, monno_options) failed (line 131) 
+[2020-02-22 07:18:09 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2020-02-22 07:18:11 : INFO] - Re_Smush_It_Task - Attachment ID : 59, Started on : February 22, 2020 07:13:49 
+[2020-02-22 07:18:11 : INFO] - 100 
+[2020-02-22 07:18:15 : INFO] - Re_Smush_It_Task - Attachment ID : 59, Started on : February 22, 2020 07:13:49 
+[2020-02-22 07:18:15 : INFO] - 100 
+[2020-02-22 07:18:18 : INFO] - Re_Smush_It_Task - Attachment ID : 59, Started on : February 22, 2020 07:13:49 
+[2020-02-22 07:18:18 : INFO] - 100 
+[2020-02-22 07:18:20 : INFO] - Re_Smush_It_Task - Attachment ID : 59, Started on : February 22, 2020 07:13:49 
+[2020-02-22 07:18:20 : INFO] - 100 
+[2020-02-22 07:18:22 : INFO] - Re_Smush_It_Task - Attachment ID : 59, Started on : February 22, 2020 07:13:49 
+[2020-02-22 07:18:22 : INFO] - 100 
+[2020-02-22 07:18:27 : INFO] - Successfully optimized the image - C:\xampp\htdocs\monno/wp-content/uploads/2020/02/banner.jpg.The file was compressed from 340.19 KB to 340.19 KB saving 0 percent using WP-Optimize 
+[2020-02-22 07:18:27 : INFO] - Completed processing task with ID : 21, and type 'smush' 
+[2020-02-22 07:18:27 : INFO] - Set semaphore last lock (smush) time to 2020-02-22 07:18:27 
+[2020-02-22 07:18:27 : INFO] - Processing task with ID : 22, and type 'smush' 
+[2020-02-22 07:18:27 : INFO] - Re_Smush_It_Task - Attachment ID : 85, Started on : February 22, 2020 07:13:57 
+[2020-02-22 07:18:27 : INFO] - 100 
+[2020-02-22 07:18:31 : INFO] - Backing up the original image - 2020/02/primary-school-updraft-pre-smush-original.jpg 
+[2020-02-22 07:18:31 : INFO] - Re_Smush_It_Task - Attachment ID : 85, Started on : February 22, 2020 07:13:57 
+[2020-02-22 07:18:31 : INFO] - 100 
+[2020-02-22 07:18:33 : INFO] - Re_Smush_It_Task - Attachment ID : 85, Started on : February 22, 2020 07:13:57 
+[2020-02-22 07:18:33 : INFO] - 100 
+[2020-02-22 07:18:35 : INFO] - Re_Smush_It_Task - Attachment ID : 85, Started on : February 22, 2020 07:13:57 
+[2020-02-22 07:18:35 : INFO] - 100 
+[2020-02-22 07:18:38 : INFO] - Re_Smush_It_Task - Attachment ID : 85, Started on : February 22, 2020 07:13:57 
+[2020-02-22 07:18:38 : INFO] - 100 
+[2020-02-22 07:18:39 : INFO] - 
+ 
+[2020-02-22 07:18:39 : INFO] - Header for logs at time:  Sat, 22 Feb 2020 07:18:39 +0000 on http://localhost/monno 
+[2020-02-22 07:18:39 : INFO] - WP: 4.9.13 
+[2020-02-22 07:18:39 : INFO] - PHP: 7.2.24 (apache2handler, Windows NT DESKTOP-SGT6DJK 10.0 build 10240 (Windows 10) AMD64) 
+[2020-02-22 07:18:39 : INFO] - MySQL: 5.5.5 
+[2020-02-22 07:18:39 : INFO] - WPLANG: en_US 
+[2020-02-22 07:18:39 : INFO] - Server: Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.2.24 
+[2020-02-22 07:18:39 : INFO] - Outbound connections: N 
+[2020-02-22 07:18:39 : INFO] - safe_mode: 0 
+[2020-02-22 07:18:39 : INFO] - max_execution_time: 300 
+[2020-02-22 07:18:39 : INFO] - memory_limit: 512M (used: 33.3M | 6M) 
+[2020-02-22 07:18:39 : INFO] - multisite: N 
+[2020-02-22 07:18:39 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2020-02-22 07:18:39 : INFO] - A total of 2 tasks of type smush found and will be processed in this iteration 
+[2020-02-22 07:18:39 : INFO] - Semaphore lock (smush, monno_options) failed (line 131) 
+[2020-02-22 07:18:39 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2020-02-22 07:19:09 : INFO] - 
+ 
+[2020-02-22 07:19:09 : INFO] - Header for logs at time:  Sat, 22 Feb 2020 07:19:09 +0000 on http://localhost/monno 
+[2020-02-22 07:19:09 : INFO] - WP: 4.9.13 
+[2020-02-22 07:19:09 : INFO] - PHP: 7.2.24 (apache2handler, Windows NT DESKTOP-SGT6DJK 10.0 build 10240 (Windows 10) AMD64) 
+[2020-02-22 07:19:09 : INFO] - MySQL: 5.5.5 
+[2020-02-22 07:19:09 : INFO] - WPLANG: en_US 
+[2020-02-22 07:19:09 : INFO] - Server: Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.2.24 
+[2020-02-22 07:19:09 : INFO] - Outbound connections: N 
+[2020-02-22 07:19:09 : INFO] - safe_mode: 0 
+[2020-02-22 07:19:09 : INFO] - max_execution_time: 300 
+[2020-02-22 07:19:09 : INFO] - memory_limit: 512M (used: 33.3M | 6M) 
+[2020-02-22 07:19:09 : INFO] - multisite: N 
+[2020-02-22 07:19:09 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2020-02-22 07:19:09 : INFO] - A total of 2 tasks of type smush found and will be processed in this iteration 
+[2020-02-22 07:19:09 : INFO] - Semaphore lock (smush, monno_options) failed (line 131) 
+[2020-02-22 07:19:09 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2020-02-22 07:19:40 : INFO] - 
+ 
+[2020-02-22 07:19:40 : INFO] - Header for logs at time:  Sat, 22 Feb 2020 07:19:40 +0000 on http://localhost/monno 
+[2020-02-22 07:19:40 : INFO] - WP: 4.9.13 
+[2020-02-22 07:19:40 : INFO] - PHP: 7.2.24 (apache2handler, Windows NT DESKTOP-SGT6DJK 10.0 build 10240 (Windows 10) AMD64) 
+[2020-02-22 07:19:40 : INFO] - MySQL: 5.5.5 
+[2020-02-22 07:19:40 : INFO] - WPLANG: en_US 
+[2020-02-22 07:19:40 : INFO] - Server: Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.2.24 
+[2020-02-22 07:19:40 : INFO] - Outbound connections: N 
+[2020-02-22 07:19:40 : INFO] - safe_mode: 0 
+[2020-02-22 07:19:40 : INFO] - max_execution_time: 300 
+[2020-02-22 07:19:40 : INFO] - memory_limit: 512M (used: 33.3M | 6M) 
+[2020-02-22 07:19:40 : INFO] - multisite: N 
+[2020-02-22 07:19:40 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2020-02-22 07:19:40 : INFO] - A total of 2 tasks of type smush found and will be processed in this iteration 
+[2020-02-22 07:19:40 : INFO] - Semaphore (smush, monno_options) was stuck, set lock time to 2020-02-22 07:19:40 
+[2020-02-22 07:19:40 : INFO] - Semaphore (smush, monno_options) reset to 1 
+[2020-02-22 07:19:40 : INFO] - Set semaphore last lock (smush) time to 2020-02-22 07:19:40 
+[2020-02-22 07:19:40 : INFO] - Semaphore lock (smush) complete 
+[2020-02-22 07:19:40 : INFO] - Processing task with ID : 22, and type 'smush' 
+[2020-02-22 07:19:40 : INFO] - Re_Smush_It_Task - Attachment ID : 85, Started on : February 22, 2020 07:13:57 
+[2020-02-22 07:19:40 : INFO] - 100 
+[2020-02-22 07:19:44 : INFO] - Backing up the original image - 2020/02/primary-school-updraft-pre-smush-original.jpg 
+[2020-02-22 07:19:44 : INFO] - Re_Smush_It_Task - Attachment ID : 85, Started on : February 22, 2020 07:13:57 
+[2020-02-22 07:19:44 : INFO] - 100 
+[2020-02-22 07:19:46 : INFO] - Re_Smush_It_Task - Attachment ID : 85, Started on : February 22, 2020 07:13:57 
+[2020-02-22 07:19:46 : INFO] - 100 
+[2020-02-22 07:19:51 : INFO] - Re_Smush_It_Task - Attachment ID : 85, Started on : February 22, 2020 07:13:57 
+[2020-02-22 07:19:51 : INFO] - 100 
+[2020-02-22 07:19:54 : INFO] - Re_Smush_It_Task - Attachment ID : 85, Started on : February 22, 2020 07:13:57 
+[2020-02-22 07:19:54 : INFO] - 100 
+[2020-02-22 07:19:56 : INFO] - Re_Smush_It_Task - Attachment ID : 85, Started on : February 22, 2020 07:13:57 
+[2020-02-22 07:19:56 : INFO] - 100 
+[2020-02-22 07:19:58 : INFO] - Successfully optimized the image - C:\xampp\htdocs\monno/wp-content/uploads/2020/02/primary-school.jpg.The file was compressed from 38.92 KB to 38.92 KB saving 0 percent using WP-Optimize 
+[2020-02-22 07:19:58 : INFO] - Completed processing task with ID : 22, and type 'smush' 
+[2020-02-22 07:19:58 : INFO] - Processing task with ID : 23, and type 'smush' 
+[2020-02-22 07:19:58 : INFO] - Re_Smush_It_Task - Attachment ID : 59, Started on : February 22, 2020 07:14:09 
+[2020-02-22 07:19:58 : INFO] - 100 
+[2020-02-22 07:20:15 : INFO] - Task with ID 23 and type (smush) failed with error code invalid_response - The compression apparently succeeded, but WP-Optimize could not retrieve the compressed image from the remote server. 
+[2020-02-22 07:20:15 : INFO] - data: {"src":"http:\/\/par2.static.resmush.it\/08597f952c15166b7db3768ddabb4ea3\/_src_banner.jpg","dest":"http:\/\/par2.static.resmush.it\/08597f952c15166b7db3768ddabb4ea3\/banner.jpg","src_size":348350,"dest_size":348350,"percent":0,"output":"json","expires":"Sat, 22 Feb 2020 08:25:09 +0100","generator":"reSmush.it rev.2.0.4.20190519"} 
+[2020-02-22 07:20:15 : INFO] - Re_Smush_It_Task - Attachment ID : 59, Started on : February 22, 2020 07:14:09 
+[2020-02-22 07:20:15 : INFO] - 100 
+[2020-02-22 07:20:16 : INFO] - Task with ID 23 and type (smush) failed with error code http_request_failed - cURL error 28: Operation timed out after 1000 milliseconds with 0 bytes received 
+[2020-02-22 07:20:16 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2020-02-22 07:20:16 : INFO] - Re_Smush_It_Task - Attachment ID : 59, Started on : February 22, 2020 07:14:09 
+[2020-02-22 07:20:16 : INFO] - 100 
+[2020-02-22 07:20:17 : INFO] - Task with ID 23 and type (smush) failed with error code http_request_failed - cURL error 28: Operation timed out after 1001 milliseconds with 0 bytes received 
+[2020-02-22 07:20:17 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2020-02-22 07:20:17 : INFO] - Re_Smush_It_Task - Attachment ID : 59, Started on : February 22, 2020 07:14:09 
+[2020-02-22 07:20:17 : INFO] - 100 
+[2020-02-22 07:20:18 : INFO] - Task with ID 23 and type (smush) failed with error code http_request_failed - cURL error 28: Operation timed out after 1000 milliseconds with 0 bytes received 
+[2020-02-22 07:20:19 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2020-02-22 07:20:19 : INFO] - Re_Smush_It_Task - Attachment ID : 59, Started on : February 22, 2020 07:14:09 
+[2020-02-22 07:20:19 : INFO] - 100 
+[2020-02-22 07:20:20 : INFO] - Task with ID 23 and type (smush) failed with error code http_request_failed - cURL error 28: Operation timed out after 1000 milliseconds with 0 bytes received 
+[2020-02-22 07:20:20 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2020-02-22 07:20:20 : INFO] - Re_Smush_It_Task - Attachment ID : 59, Started on : February 22, 2020 07:14:09 
+[2020-02-22 07:20:20 : INFO] - 100 
+[2020-02-22 07:20:21 : INFO] - Task with ID 23 and type (smush) failed with error code http_request_failed - cURL error 28: Operation timed out after 1001 milliseconds with 0 bytes received 
+[2020-02-22 07:20:21 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2020-02-22 07:20:21 : INFO] - Re_Smush_It_Task - Attachment ID : 59, Started on : February 22, 2020 07:14:09 
+[2020-02-22 07:20:21 : INFO] - 100 
+[2020-02-22 07:20:22 : INFO] - Task with ID 23 and type (smush) failed with error code http_request_failed - cURL error 28: Operation timed out after 1000 milliseconds with 0 bytes received 
+[2020-02-22 07:20:22 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2020-02-22 07:20:22 : INFO] - Re_Smush_It_Task - Attachment ID : 59, Started on : February 22, 2020 07:14:09 
+[2020-02-22 07:20:22 : INFO] - 100 
+[2020-02-22 07:20:23 : INFO] - Task with ID 23 and type (smush) failed with error code http_request_failed - cURL error 28: Operation timed out after 1000 milliseconds with 0 bytes received 
+[2020-02-22 07:20:23 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2020-02-22 07:20:23 : INFO] - Re_Smush_It_Task - Attachment ID : 59, Started on : February 22, 2020 07:14:09 
+[2020-02-22 07:20:23 : INFO] - 100 
+[2020-02-22 07:20:25 : INFO] - Task with ID 23 and type (smush) failed with error code http_request_failed - cURL error 28: Operation timed out after 1000 milliseconds with 0 bytes received 
+[2020-02-22 07:20:25 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2020-02-22 07:20:25 : INFO] - Re_Smush_It_Task - Attachment ID : 59, Started on : February 22, 2020 07:14:09 
+[2020-02-22 07:20:25 : INFO] - 100 
+[2020-02-22 07:20:26 : INFO] - Task with ID 23 and type (smush) failed with error code http_request_failed - cURL error 28: Operation timed out after 1000 milliseconds with 0 bytes received 
+[2020-02-22 07:20:26 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2020-02-22 07:20:26 : INFO] - Re_Smush_It_Task - Attachment ID : 59, Started on : February 22, 2020 07:14:09 
+[2020-02-22 07:20:26 : INFO] - 100 
+[2020-02-22 07:20:27 : INFO] - Task with ID 23 and type (smush) failed with error code http_request_failed - cURL error 28: Operation timed out after 1001 milliseconds with 0 bytes received 
+[2020-02-22 07:20:27 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2020-02-22 07:20:27 : INFO] - Re_Smush_It_Task - Attachment ID : 59, Started on : February 22, 2020 07:14:09 
+[2020-02-22 07:20:27 : INFO] - 100 
+[2020-02-22 07:20:28 : INFO] - Task with ID 23 and type (smush) failed with error code http_request_failed - cURL error 28: Operation timed out after 1000 milliseconds with 0 bytes received 
+[2020-02-22 07:20:28 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2020-02-22 07:20:28 : INFO] - Set semaphore last lock (smush) time to 2020-02-22 07:20:28 
+[2020-02-22 07:20:28 : INFO] - Decremented the semaphore (smush) by 1 
+[2020-02-22 07:20:28 : INFO] - Semaphore (smush) unlocked 
+[2020-02-22 07:20:28 : INFO] - Successfully processed the queue (smush). 2 tasks were processed out of 2. 
+[2020-02-22 07:20:29 : INFO] - Semaphore (smush, monno_options) was successfully cleaned up 
+[2020-02-22 07:20:29 : INFO] - Cleaning up tasks of type (smush). A total of 22 tasks will be deleted. 

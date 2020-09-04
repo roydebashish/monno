@@ -1,0 +1,99 @@
+= 2.2.2 - 09.03.2020 =
+Display gallery id above Custom CSS editor
+Fix filters preview
+Fixed caption for images
+Added option to change Social Icon size
+Added option to align filters
+Translation fixes
+Update texts
+Custom CSS code editor fix
+
+
+= 2.2.1 - 05.02.2020 =
+Added the options to upload your own cursor
+Added numbers in front of hover effects
+Fixed filters color bug
+Fixed RTL on lighboxes
+
+= 2.2.0 - 20.12.2019 =
+Added a new shortcode : modula-link
+Added bulk delete
+Added more controls for title and caption
+photoGallery overlay_gallery_max value increase to 300
+Fix Caption and Image title on upload from Media Library
+Fixed incompatibility with ShortPixel Ai
+Changed how we activate licenses
+Fixed filters whe we have hidden items
+
+= 2.1.1 - 24.07.2019 =
+Added 20 more hover effects
+Added protection for license key
+Fixed issue when sorting images ( filters & video link disappeared )
+Fixed replace image functionality
+
+= 2.1.0 =
+Added sorting option
+Added default filter
+Added filter positions
+Added filter styles
+Added collapsible filters for mobile
+Added the option to remove “All” filter
+Added max images on Custom Grid
+Added option to show all images in lightbox if max image is used
+
+Fixed “Show in lightbox only filtered images”
+Fixed Lifetime license
+Fixed "filters do not work with Hebrew characters"
+Changed CDN link
+
+
+= 2.0.6 =
+Change how we save on bulk edit
+
+= 2.0.5 =
+Added option to save filters without exit on bulk edit.
+
+= 2.0.4 =
+Fixed Curtain Hover Effect
+Fixed Max Images setting
+
+= 2.0.3 =
+Added Bulk Edit
+Fixed "Install Modula Lite" notice
+Added the functionality to install Extensions
+
+= 2.0.2 =
+Fixed Filters
+
+= 2.0.1 =
+Fixed Hover Color &amp; Opacity
+
+= 2.0.0 – 12.17.2018 =
+Major Update
+Build Custom Grids – Take full control of your galleries.
+New Admin Interface – For a more intuitive user interface, we’ve blended Modula right into WordPress.
+Drag &amp; Drop to Upload Images
+Guidelines to Help You Make the Perfect Gallery
+Preview your Gallery Without the Hassle
+
+= 1.3.1 =
+Changed lightbox script
+
+= 1.3.0 =
+Added compatibility with : WPML/Visual Composer/Page Builder by SiteOrigin
+Fixed bugs with captions &amp; titles
+Localized all text strings
+Fixed lightbox bug
+
+= 1.2.1 =
+[Fix] Update Process
+
+= 1.2.0 =
+[Fix] Various fixes to the bugs reported by customers
+
+= 1.0.6 =
+[Add] Enabled captions in LightGallery
+
+= 1.0.5 =
+[Fix] Wrong behaviour when selecting "Don't use captions"
+[Enhancement] Images on admin panel are now always squared
