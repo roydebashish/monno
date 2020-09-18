@@ -1,4 +1,3 @@
-/.well-known
 wp-config.php
-.vscode
-.error_log
+error_log
+#wp-content/uploads/
