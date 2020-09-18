@@ -1,3 +1,4 @@
 wp-config.php
 error_log
 #wp-content/uploads/
+.vscode
